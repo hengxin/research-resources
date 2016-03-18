@@ -36,3 +36,4 @@
 
 ## Figures and Tables
 
+A wonderful article [Almost Everything You Wanted to Know About Making Tables and Figures](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtablefigs.html#topofpage).

@@ -11,6 +11,27 @@ Proceedings of the 14th International Conference on Distributed Computing and Ne
 2013, pp. 423--427.
 ```
 
+## The Consensus Problem
+
+- [[FL@IPL'82]](http://www.sciencedirect.com/science/article/pii/0020019082900333)
+```
+M. Fischer and N. Lynch, "A lower bound for the time to assure interactive consistency", 
+Inform. Process. Lett., vol. 14, no. 4, 1982, pp. 183-186.
+```
+
+- [[Lamport@FDiDC'03]](http://dl.acm.org/citation.cfm?id=1809321)
+```
+Leslie Lamport, "Lower bounds for asynchronous consensus," 
+In Future directions in distributed computing, André Schiper, Alex A. Shvartsman, Hakim Weatherspoon, and Ben Y. Zhao (Eds.). Lecture Notes In Computer Science, Vol. 2584. Springer-Verlag, 2003, pp. 22-23.
+```
+
+## Quorum Systems
+- [[Thomas@TODS'79]](http://dl.acm.org/citation.cfm?id=320076)
+```
+Robert H. Thomas, "A Majority consensus approach to concurrency control for multiple copy databases," 
+ACM Trans. Database Syst. 4, 2 (June 1979), pp. 180-209.
+```
+
 ## Consistency Models
 
 ### Timed Consistency Models
@@ -63,3 +84,14 @@ In Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing 
 
 ```
 #### Monitoring
+
+## Distributed Transactions
+
+### Commit Protocols
+- [[NAAA@SIGMOD'15]](http://dl.acm.org/citation.cfm?doid=2723372.2723729)
+```
+Faisal Nawab, Vaibhav Arora, Divyakant Agrawal, and Amr El Abbadi,
+"Minimizing Commit Latency of Transactions in Geo-Replicated Data Stores," 
+In Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data (SIGMOD '15),
+2015, pp. 1279-1294.
+```

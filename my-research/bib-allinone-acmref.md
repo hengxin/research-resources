@@ -62,6 +62,7 @@ Wojciech Golab, Jeremy Hurwitz, and Xiaozhou (Steve) Li,
 "On the k-Atomicity-Verification Problem," 
 In Proceedings of the 2013 IEEE 33rd International Conference on Distributed Computing Systems (ICDCS '13). 
 2013, pp. 591-600.
+```
 
 -[[GRAKG@ICDCS'14]](http://dl.acm.org/citation.cfm?id=2672698&CFID=583993644&CFTOKEN=80708905)
 ```
@@ -81,8 +82,6 @@ In Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing 
 
 #### Quantifying
 
-
-```
 #### Monitoring
 
 ## Distributed Transactions

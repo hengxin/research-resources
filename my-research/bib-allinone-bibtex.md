@@ -15,6 +15,50 @@
 }
 ```
 
+## The Consensus Problem
+
+- [[FL@IPL'82]](http://www.sciencedirect.com/science/article/pii/0020019082900333)
+```
+@article{Fischer82,
+author = {Michael J. Fischer and Nancy A. Lynch},
+title = {A lower bound for the time to assure interactive consistency},
+journal = {Information Processing Letters},
+volume = {14},
+number = {4},
+pages = {183 - 186},
+year = {1982},
+}
+```
+
+- [[Lamport@FDiDC]](http://dl.acm.org/citation.cfm?id=1809321)
+```
+@incollection{Lamport03,
+ author = {Lamport, Leslie},
+ chapter = {Lower Bounds for Asynchronous Consensus},
+ title = {Future Directions in Distributed Computing},
+ editor = {Schiper, Andr{\'e} and Shvartsman, Alex A. and Weatherspoon, Hakim and Zhao, Ben Y.},
+ year = {2003},
+ pages = {22--23},
+ publisher = {Springer-Verlag},
+}
+```
+
+## Quorum Systems
+- [[Thomas@TODS'79]](http://dl.acm.org/citation.cfm?id=320076)
+```
+@article{Thomas:1979:MCA:320071.320076,
+ author = {Thomas, Robert H.},
+ title = {A Majority Consensus Approach to Concurrency Control for Multiple Copy Databases},
+ journal = {ACM Trans. Database Syst.},
+ volume = {4},
+ number = {2},
+ month = jun,
+ year = {1979},
+ pages = {180--209},
+ publisher = {ACM},
+} 
+```
+
 ## Consistency Models
 
 ### Timed Consistency Models
@@ -86,7 +130,24 @@
  pages = {395--404},
  publisher = {ACM},
 }
+```
 
 #### Quantifying
 
 #### Monitoring
+
+## Distributed Transactions
+
+### Commit Protocols
+- [[NAAA@SIGMOD'15]](http://dl.acm.org/citation.cfm?doid=2723372.2723729)
+```
+@inproceedings{Nawab15,
+ author = {Nawab, Faisal and Arora, Vaibhav and Agrawal, Divyakant and El Abbadi, Amr},
+ title = {Minimizing Commit Latency of Transactions in Geo-Replicated Data Stores},
+ booktitle = {Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data},
+ series = {SIGMOD '15},
+ year = {2015},
+ pages = {1279--1294},
+ publisher = {ACM},
+}
+```

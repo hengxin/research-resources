@@ -196,7 +196,35 @@ year = {1982},
 } 
 ```
 
--[[Microsoft@SOSP'11]](http://dl.acm.org/citation.cfm?id=2043571)  % Microsoft's WAS
+- [[Amazon@SOSP'07]](http://dl.acm.org/citation.cfm?id=1294281) % Amazon's Dynamo
+```
+@inproceedings{DeCandia:2007:DAH:1294261.1294281,
+ author = {DeCandia, Giuseppe and Hastorun, Deniz and Jampani, Madan and Kakulapati, Gunavardhan and Lakshman, Avinash and Pilchin, Alex and Sivasubramanian, Swaminathan and Vosshall, Peter and Vogels, Werner},
+ title = {Dynamo: Amazon's Highly Available Key-value Store},
+ booktitle = {Proceedings of Twenty-first ACM SIGOPS Symposium on Operating Systems Principles},
+ series = {SOSP '07},
+ year = {2007},
+ pages = {205--220},
+ publisher = {ACM},
+}
+```
+
+- [[LM@SIGOPS OSR'10]](http://dl.acm.org/citation.cfm?id=1773922)
+```
+@article{Lakshman20,
+ author = {Lakshman, Avinash and Malik, Prashant},
+ title = {Cassandra: A Decentralized Structured Storage System},
+ journal = {SIGOPS Oper. Syst. Rev.},
+ volume = {44},
+ number = {2},
+ month = apr,
+ year = {2010},
+ pages = {35--40},
+ publisher = {ACM},
+}
+```
+
+- [[Microsoft@SOSP'11]](http://dl.acm.org/citation.cfm?id=2043571)  % Microsoft's WAS
 ```
 @inproceedings{Microsoft11,
  author = {Calder, Brad and Wang, Ju and Ogus, Aaron and Nilakantan, Niranjan and Skjolsvold, Arild and McKelvie, Sam and Xu, Yikang and Srivastav, Shashwat and Wu, Jiesheng and Simitci, Huseyin and Haridas, Jaidev and Uddaraju, Chakravarthy and Khatri, Hemal and Edwards, Andrew and Bedekar, Vaman and Mainali, Shane and Abbasi, Rafay and Agarwal, Arpit and Haq, Mian Fahim ul and Haq, Muhammad Ikram ul and Bhardwaj, Deepali and Dayanand, Sowmya and Adusumilli, Anitha and McNett, Marvin and Sankaran, Sriram and Manivannan, Kavitha and Rigas, Leonidas},
@@ -219,6 +247,38 @@ year = {1982},
  year = {2012},
  pages = {251--264},
  publisher = {USENIX Association},
+}
+```
+
+### Consistency Models in Distributed Storage Systems
+
+- [[Vogels@CACM'09]](http://dl.acm.org/citation.cfm?id=1435432)
+```
+@article{Vogels09,
+ author = {Vogels, Werner},
+ title = {Eventually Consistent},
+ journal = {Commun. ACM},
+ volume = {52},
+ number = {1},
+ month = jan,
+ year = {2009},
+ pages = {40--44},
+ publisher = {ACM},
+}
+```
+
+- [[Terry@CACM'13]](http://dl.acm.org/citation.cfm?id=2534706.2500500&coll=portal&dl=ACM)
+```
+@article{Terry13-cacm,
+ author = {Terry, Doug},
+ title = {Replicated Data Consistency Explained Through Baseball},
+ journal = {Commun. ACM},
+ volume = {56},
+ number = {12},
+ month = dec,
+ year = {2013},
+ pages = {82--89},
+ publisher = {ACM},
 }
 ```
 

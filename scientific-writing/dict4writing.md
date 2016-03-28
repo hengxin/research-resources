@@ -25,9 +25,13 @@
 ## Words, Phrases, and Sentences
 A wonderful site: [Common Errors in English Usage](http://public.wsu.edu/~brians/errors/errors.html#i).
 
-### Words
+### Words and Phrases
 
-### Phrases
+#### Online Dictionary
+- [Oxford Dictionaries](http://www.oxforddictionaries.com/)
+- [Oxford Collocation Dictionary](http://oxforddictionary.so8848.com/)
+- [Wordnet](http://wordnet-online.freedicts.com/)
+- [YouDao](http://dict.youdao.com/)
 
 ### Sentences
 

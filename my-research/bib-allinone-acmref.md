@@ -25,6 +25,12 @@ Leslie Lamport, "Lower bounds for asynchronous consensus,"
 In Future directions in distributed computing, André Schiper, Alex A. Shvartsman, Hakim Weatherspoon, and Ben Y. Zhao (Eds.). Lecture Notes In Computer Science, Vol. 2584. Springer-Verlag, 2003, pp. 22-23.
 ```
 
+- [[Lamport@DC'06]](http://link.springer.com/article/10.1007%2Fs00446-006-0155-x)
+```
+Leslie Lamport, "Lower bounds for asynchronous consensus,"
+Distributed Computing, vol 19, no. 2, 2006, pp. 104--125.
+```
+
 ## Quorum Systems
 - [[Thomas@TODS'79]](http://dl.acm.org/citation.cfm?id=320076)
 ```

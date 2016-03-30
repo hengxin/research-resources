@@ -30,7 +30,7 @@ year = {1982},
 }
 ```
 
-- [[Lamport@FDiDC]](http://dl.acm.org/citation.cfm?id=1809321)
+- [[Lamport@FDiDC'03]](http://dl.acm.org/citation.cfm?id=1809321)
 ```
 @incollection{Lamport03,
  author = {Lamport, Leslie},
@@ -40,6 +40,19 @@ year = {1982},
  year = {2003},
  pages = {22--23},
  publisher = {Springer-Verlag},
+}
+```
+
+- [[Lamport@DC'06]](http://link.springer.com/article/10.1007%2Fs00446-006-0155-x)
+```
+@article{Lamport06,
+  author    = {Leslie Lamport},
+  title     = {Lower bounds for asynchronous consensus},
+  journal   = {Distributed Computing},
+  volume    = {19},
+  number    = {2},
+  pages     = {104--125},
+  year      = {2006},
 }
 ```
 

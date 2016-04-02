@@ -178,3 +178,20 @@ Faisal Nawab, Vaibhav Arora, Divyakant Agrawal, and Amr El Abbadi,
 In Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data (SIGMOD '15),
 2015, pp. 1279-1294.
 ```
+
+## Benchmarks
+
+- [[KMFB@InfoCom'94]](http://research.microsoft.com/pubs/71434/infocom04.pdf)
+```
+```
+
+### Empirical Study
+- [[PFM@MSST'15]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7208286&tag=1)
+```
+R. Pitchumani, S. Frank and E. L. Miller, 
+"Realistic request arrival generation in storage benchmarks,"
+In Mass Storage Systems and Technologies (MSST), 2015 31st Symposium on, 
+2015, pp. 1-10.
+```
+
+### Benchmarks

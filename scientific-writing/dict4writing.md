@@ -30,6 +30,7 @@ A wonderful site: [Common Errors in English Usage](http://public.wsu.edu/~brians
 #### Online Dictionary
 - [Oxford Dictionaries](http://www.oxforddictionaries.com/)
 - [Oxford Collocation Dictionary](http://oxforddictionary.so8848.com/)
+- [TheFreeDictionary](http://www.thefreedictionary.com/)
 - [Wordnet](http://wordnet-online.freedicts.com/)
 - [YouDao](http://dict.youdao.com/)
 

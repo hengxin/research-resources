@@ -310,3 +310,36 @@ year = {1982},
  publisher = {ACM},
 }
 ```
+
+## Benchmarks
+
+### Empirical Study
+
+- [[KMFB@InfoCom'94]](http://research.microsoft.com/pubs/71434/infocom04.pdf)
+```
+@inproceedings{Karagiannis04,
+  author    = {Thomas Karagiannis and
+               Mart Molle and
+               Michalis Faloutsos and
+               Andre Broido},
+  title     = {A Nonstationary Poisson View of Internet Traffic},
+  booktitle = {Proceedings {IEEE} {INFOCOM} 2004, The 23rd Annual Joint Conference
+               of the {IEEE} Computer and Communications Societies, Hong Kong, China,
+               March 7-11, 2004},
+  year      = {2004},
+}
+```
+We show that unlike the older data sets, current network traffic can be well represented by the Poisson model for sub-second time scales.
+
+- [[PFM@MSST'15]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7208286&tag=1)
+```
+@inproceedings{Pitchumani15, 
+author={R. Pitchumani and S. Frank and E. L. Miller}, 
+title={Realistic request arrival generation in storage benchmarks}, 
+booktitle={2015 31st Symposium on Mass Storage Systems and Technologies (MSST)}, 
+year={2015},
+pages={1-10}, 
+}
+```
+
+### Benchmarks

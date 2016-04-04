@@ -314,14 +314,23 @@ year = {1982},
 ## Benchmarks
 
 ### Empirical Study
+- [[CCLS@SIGMETRICS'01]](http://dl.acm.org/citation.cfm?id=378440)
+```
+@inproceedings{Cao01,
+ author = {Cao, Jin and Cleveland, William S. and Lin, Dong and Sun, Don X.},
+ title = {On the Nonstationarity of Internet Traffic},
+ booktitle = {Proceedings of the 2001 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems},
+ series = {SIGMETRICS '01},
+ year = {2001},
+ pages = {102--112},
+ publisher = {ACM},
+} 
+```
 
-- [[KMFB@InfoCom'94]](http://research.microsoft.com/pubs/71434/infocom04.pdf)
+- [[KMFB@InfoCom'04]](http://research.microsoft.com/pubs/71434/infocom04.pdf)
 ```
 @inproceedings{Karagiannis04,
-  author    = {Thomas Karagiannis and
-               Mart Molle and
-               Michalis Faloutsos and
-               Andre Broido},
+  author    = {Thomas Karagiannis and Mart Molle and Michalis Faloutsos and Andre Broido},
   title     = {A Nonstationary Poisson View of Internet Traffic},
   booktitle = {Proceedings {IEEE} {INFOCOM} 2004, The 23rd Annual Joint Conference
                of the {IEEE} Computer and Communications Societies, Hong Kong, China,
@@ -339,6 +348,16 @@ title={Realistic request arrival generation in storage benchmarks},
 booktitle={2015 31st Symposium on Mass Storage Systems and Technologies (MSST)}, 
 year={2015},
 pages={1-10}, 
+}
+```
+
+- [[Brutlag@Google'09]](https://services.google.com/fh/files/blogs/google_delayexp.pdf)
+```
+@ELECTRONIC{Google09,
+  author = {Jake Brutlag},
+  title = {Speed Matters for Google Web Search},
+  howpublished = {\url{https://services.google.com/fh/files/blogs/google_delayexp.pdf}},
+  note = {Accessed: 04-04-2016},
 }
 ```
 

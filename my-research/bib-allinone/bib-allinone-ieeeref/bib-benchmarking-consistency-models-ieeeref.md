@@ -1,4 +1,4 @@
-# Bibs on Benchmarking Consistency Models (BibTex)
+# Bibs on Benchmarking Consistency Models (IEEERef)
 
 ## Verifying
 
@@ -44,6 +44,19 @@ Aman Singla, Umakishore Ramachandran, and Jessica Hodgins,
 "Temporal notions of synchronization and consistency in Beehive,"
 In Proceedings of the ninth annual ACM symposium on Parallel algorithms and architectures (SPAA '97),
 1997, pp. 211-220.
+```
+
+- [[TAR@PODC'99]](http://dl.acm.org/citation.cfm?id=301308.301350)
+```
+@inproceedings{Torres-Rojas99,
+ author = {Torres-Rojas, Francisco J. and Ahamad, Mustaque and Raynal, Michel},
+ title = {Timed Consistency for Shared Distributed Objects},
+ booktitle = {Proceedings of the Eighteenth Annual ACM Symposium on Principles of Distributed Computing},
+ series = {PODC '99},
+ year = {1999},
+ pages = {163--172},
+ publisher = {ACM},
+}
 ```
 
 ## Monitoring

@@ -1,4 +1,4 @@
-# Bibs All-In-One (in ACMRef)
+# Bibs All-In-One (ACMRef)
 
 ## Computability and Complexity
 

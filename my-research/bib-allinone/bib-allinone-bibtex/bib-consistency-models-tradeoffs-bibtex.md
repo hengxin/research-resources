@@ -15,6 +15,23 @@
 ```
 
 ## Consistency/Latency Tradeoff
+- [[Abadi@IEEE Computer'12]](http://dl.acm.org/citation.cfm?id=2360959)
+```
+@article{Abadi12,
+ author = {Abadi, Daniel},
+ title = {Consistency Tradeoffs in Modern Distributed Database System Design: CAP is Only Part of the Story},
+ journal = {Computer},
+ issue_date = {February 2012},
+ volume = {45},
+ number = {2},
+ month = feb,
+ year = {2012},
+ pages = {37--42},
+ publisher = {IEEE Computer Society Press},
+} 
+
+```
+
 - [[TPKBAA@SOSP'13]](http://dl.acm.org/citation.cfm?id=2522731)
 ```
 @inproceedings{Terry13,

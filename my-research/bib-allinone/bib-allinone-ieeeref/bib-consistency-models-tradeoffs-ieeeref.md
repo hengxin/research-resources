@@ -25,7 +25,7 @@ In Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principle
 ```
 McKenzie, M.; Fan, H. & Golab, W. M., 
 "Fine-tuning the consistency-latency trade-off in quorum-replicated distributed storage systems,"
-In IEEE Internatioinal Conference on Big Data, 2015, pp. 1708-1717.
+In IEEE International Conference on Big Data, 2015, pp. 1708-1717.
 ```
 
 - [[BKTM@CLOUD'11]](http://dl.acm.org/citation.cfm?id=2055544)

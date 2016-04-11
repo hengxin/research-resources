@@ -48,15 +48,10 @@ In Proceedings of the ninth annual ACM symposium on Parallel algorithms and arch
 
 - [[TAR@PODC'99]](http://dl.acm.org/citation.cfm?id=301308.301350)
 ```
-@inproceedings{Torres-Rojas99,
- author = {Torres-Rojas, Francisco J. and Ahamad, Mustaque and Raynal, Michel},
- title = {Timed Consistency for Shared Distributed Objects},
- booktitle = {Proceedings of the Eighteenth Annual ACM Symposium on Principles of Distributed Computing},
- series = {PODC '99},
- year = {1999},
- pages = {163--172},
- publisher = {ACM},
-}
+Francisco J. Torres-Rojas, Mustaque Ahamad, and Michel Raynal, 
+"Timed consistency for shared distributed objects," 
+In Proceedings of the eighteenth annual ACM symposium on Principles of distributed computing (PODC '99),
+ACM, 1999, pp. 163--172.
 ```
 
 ## Monitoring

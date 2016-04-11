@@ -1,4 +1,4 @@
-# Bibs on Distributed Storage Systems (ACMRef)
+# Bibs on Distributed Storage Systems (BibTeX)
 
 - [[Google@OSDI'06]](http://dl.acm.org/citation.cfm?id=1267323)  % Google's Bigtable
 ```

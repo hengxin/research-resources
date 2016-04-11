@@ -3,12 +3,17 @@
 ## The CAP Theorem
 - [[Brewer@PODC'00]](http://dl.acm.org/citation.cfm?id=343502)
 ```
-Eric A. Brewer, "Towards robust distributed systems (abstract),", 
+Eric A. Brewer, "Towards robust distributed systems (abstract),"
 In Proceedings of the nineteenth annual ACM symposium on Principles of distributed computing (PODC '00). 
 ACM, 2000, pp. 7-. 
 ```
 
 ## Consistency/Latency Tradeoff
+- [[Abadi@IEEE Computer'12]](http://dl.acm.org/citation.cfm?id=2360959)
+```
+Daniel Abadi, "Consistency Tradeoffs in Modern Distributed Database System Design: CAP is Only Part of the Story," Computer vol. 45, no. 2, 2012, pp. 37-42.
+```
+
 - [[TPKBAA@SOSP'13]](http://dl.acm.org/citation.cfm?id=2522731)
 ```
 Douglas B. Terry, Vijayan Prabhakaran, Ramakrishna Kotla, Mahesh Balakrishnan, Marcos K. Aguilera, and Hussam Abu-Libdeh, "Consistency-based service level agreements for cloud storage,"

@@ -115,9 +115,9 @@ In Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing 
 
 ## Distributed Systems
 
-### [Distributed Storage Systems](https://github.com/hengxin/research-resources/tree/master/my-research/bib-allinone-ieeeref)
+### [Distributed Storage Systems](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-distributed-storage-systems-ieeeref.md)
 
-### [Consistency Models in Distributed Storage Systems](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-acmref/bib-consistency-models-in-distributed-storage-systems-ieeeref.md)
+### [Consistency Models in Distributed Storage Systems](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-consistency-models-in-distributed-storage-systems-ieeeref.md)
 
 ## Distributed Transactions
 

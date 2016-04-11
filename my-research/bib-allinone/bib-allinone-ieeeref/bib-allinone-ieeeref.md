@@ -117,19 +117,7 @@ In Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing 
 
 ### [Distributed Storage Systems](https://github.com/hengxin/research-resources/tree/master/my-research/bib-allinone-ieeeref)
 
-### Consistency Models in Distributed Storage Systems
-
-- [[Vogels@CACM'09]](http://dl.acm.org/citation.cfm?id=1435432)
-```
-Werner Vogels, "Eventually consistent," 
-Commun. ACM 52, 1 (January 2009), 2009, pp. 40-44. 
-```
-
-- [[Terry@CACM'13]](http://dl.acm.org/citation.cfm?id=2534706.2500500&coll=portal&dl=ACM)
-```
-Doug Terry, "Replicated data consistency explained through baseball," 
-Commun. ACM 56, 12 (December 2013), 2013, pp. 82-89.
-```
+### [Consistency Models in Distributed Storage Systems](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-acmref/bib-consistency-models-in-distributed-storage-systems-ieeeref.md)
 
 ## Distributed Transactions
 

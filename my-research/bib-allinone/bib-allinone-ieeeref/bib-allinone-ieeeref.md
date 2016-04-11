@@ -45,7 +45,7 @@ ACM Trans. Database Syst. 4, 2 (June 1979), pp. 180-209.
 
 ### [Consistency Models Related Tradeoffs](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-consistency-models-tradeoffs-ieeeref.md)
 
-### [Benchmarking Consistency Models](https://github.com/hengxin/research-resources/tree/master/my-research/bib-allinone/bib-allinone-ieeeref)
+### [Benchmarking Consistency Models](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-benchmarking-consistency-models-ieeeref.md)
 
 ## Distributed Systems
 

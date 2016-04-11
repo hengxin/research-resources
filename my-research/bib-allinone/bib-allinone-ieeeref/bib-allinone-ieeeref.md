@@ -38,19 +38,12 @@ Robert H. Thomas, "A Majority consensus approach to concurrency control for mult
 ACM Trans. Database Syst. 4, 2 (June 1979), pp. 180-209.
 ```
 
-## Consistency Models (System and Practice)
+## Consistency Models
+
+### [Consistency Models (Theory and Algorithms)](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-consistency-models-theory-algorithms-ieeeref.md)
+### [Consistency Models (System and Practice)](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-consistency-models-system-and-practice-ieeeref.md)
 
 ### [Consistency Models Related Tradeoffs](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-consistency-models-tradeoffs-ieeeref.md)
-
-### Timed Consistency Models
-
-- [[SRH@SPAA'97]](http://dl.acm.org/citation.cfm?id=258513)
-```
-Aman Singla, Umakishore Ramachandran, and Jessica Hodgins, 
-"Temporal notions of synchronization and consistency in Beehive,"
-In Proceedings of the ninth annual ACM symposium on Parallel algorithms and architectures (SPAA '97),
-1997, pp. 211-220.
-```
 
 ### Benchmarking Consistency Models
 
@@ -90,13 +83,21 @@ In Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing 
 
 #### Quantifying
 
+##### Timed Consistency Models
+
+- [[SRH@SPAA'97]](http://dl.acm.org/citation.cfm?id=258513)
+```
+Aman Singla, Umakishore Ramachandran, and Jessica Hodgins, 
+"Temporal notions of synchronization and consistency in Beehive,"
+In Proceedings of the ninth annual ACM symposium on Parallel algorithms and architectures (SPAA '97),
+1997, pp. 211-220.
+```
+
 #### Monitoring
 
 ## Distributed Systems
 
 ### [Distributed Storage Systems](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-distributed-storage-systems-ieeeref.md)
-
-### [Consistency Models in Distributed Storage Systems](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-consistency-models-in-distributed-storage-systems-ieeeref.md)
 
 ## Distributed Transactions
 

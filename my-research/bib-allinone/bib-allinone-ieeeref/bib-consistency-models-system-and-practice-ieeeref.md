@@ -1,4 +1,4 @@
-# Consistency Models in Distributed Storage Systems (IEEERef)
+# Consistency Models (System and Practice) (IEEERef)
 
 - [[Vogels@CACM'09]](http://dl.acm.org/citation.cfm?id=1435432)
 ```

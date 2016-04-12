@@ -1,5 +1,7 @@
 # Bibs All-In-One (IEEERef)
 
+## [Books](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-books-ieeeref.md)
+
 ## Computability and Complexity
 
 ### Computability of Registers

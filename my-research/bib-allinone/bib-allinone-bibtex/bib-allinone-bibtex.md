@@ -2,21 +2,6 @@
 
 ## [Books](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-bibtex/bib-books-bibtex.md)
 
-## Computability and Complexity
-
-### Computability of Registers
-
-- [[Taubenfeld@ICDCN'13]](http://link.springer.com/chapter/10.1007%2F978-3-642-35668-1_29)
-```
-@inproceedings{Taubenfeld13,
-  author    = {Gadi Taubenfeld},
-  title     = {Weak Read/Write Registers},
-  booktitle = {Proceedings of the 14th International Conference on Distributed Computing and Networking},
-  pages     = {423--427},
-  year      = {2013},
-}
-```
-
 ## The Consensus Problem
 
 - [[FL@IPL'82]](http://www.sciencedirect.com/science/article/pii/0020019082900333)
@@ -58,21 +43,7 @@ year = {1982},
 }
 ```
 
-## Quorum Systems
-- [[Thomas@TODS'79]](http://dl.acm.org/citation.cfm?id=320076)
-```
-@article{Thomas:1979:MCA:320071.320076,
- author = {Thomas, Robert H.},
- title = {A Majority Consensus Approach to Concurrency Control for Multiple Copy Databases},
- journal = {ACM Trans. Database Syst.},
- volume = {4},
- number = {2},
- month = jun,
- year = {1979},
- pages = {180--209},
- publisher = {ACM},
-} 
-```
+## [Quorum Systems](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-bibtex/bib-quorum-system-bibtex.md)
 
 ## Consistency Models
 

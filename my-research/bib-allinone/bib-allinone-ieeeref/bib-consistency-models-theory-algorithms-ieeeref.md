@@ -1,4 +1,4 @@
-# Bibs on Consistency Models: Theory and Algorithms (BibTex)
+# Bibs on Consistency Models: Theory and Algorithms (IEEERef)
 
 ## Framework
 

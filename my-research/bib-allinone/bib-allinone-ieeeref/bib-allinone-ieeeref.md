@@ -2,17 +2,6 @@
 
 ## [Books](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-books-ieeeref.md)
 
-## Computability and Complexity
-
-### Computability of Registers
-
-- [[Taubenfeld@ICDCN'13]](http://link.springer.com/chapter/10.1007%2F978-3-642-35668-1_29)
-```
-Gadi Taubenfeld, "Weak Read/Write Registers,"
-Proceedings of the 14th International Conference on Distributed Computing and Networking (ICDCN '13),
-2013, pp. 423--427.
-```
-
 ## The Consensus Problem
 
 - [[FL@IPL'82]](http://www.sciencedirect.com/science/article/pii/0020019082900333)
@@ -33,12 +22,7 @@ Leslie Lamport, "Lower bounds for asynchronous consensus,"
 Distributed Computing, vol 19, no. 2, 2006, pp. 104--125.
 ```
 
-## Quorum Systems
-- [[Thomas@TODS'79]](http://dl.acm.org/citation.cfm?id=320076)
-```
-Robert H. Thomas, "A Majority consensus approach to concurrency control for multiple copy databases," 
-ACM Trans. Database Syst. 4, 2 (June 1979), pp. 180-209.
-```
+## [Quorum Systems](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-quorum-system-ieeeref.md)
 
 ## Consistency Models
 

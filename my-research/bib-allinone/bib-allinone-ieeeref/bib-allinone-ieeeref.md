@@ -51,16 +51,7 @@ ACM Trans. Database Syst. 4, 2 (June 1979), pp. 180-209.
 
 ### [Distributed Storage Systems](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-distributed-storage-systems-ieeeref.md)
 
-## Distributed Transactions
-
-### Commit Protocols
-- [[NAAA@SIGMOD'15]](http://dl.acm.org/citation.cfm?doid=2723372.2723729)
-```
-Faisal Nawab, Vaibhav Arora, Divyakant Agrawal, and Amr El Abbadi,
-"Minimizing Commit Latency of Transactions in Geo-Replicated Data Stores," 
-In Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data (SIGMOD '15),
-2015, pp. 1279-1294.
-```
+## [Distributed Transactions](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-distributed-transactions-ieeeref.md)
 
 ## Benchmarks
 - [[CCLS@SIGMETRICS'01]](http://dl.acm.org/citation.cfm?id=378440)

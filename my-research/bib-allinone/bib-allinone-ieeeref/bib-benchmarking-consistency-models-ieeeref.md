@@ -36,7 +36,16 @@ In Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing 
 
 ## Quantifying
 
-### Probabilistic Consistency Models
+### Versions
+- [[Aiyer@DISC’05]](http://dl.acm.org/citation.cfm?id=2162326)
+```
+Amitanand Aiyer, Lorenzo Alvisi, and Rida A. Bazzi,
+"On the availability of non-strict quorum systems,"
+In Proceedings of the 19th international conference on Distributed Computing (DISC'05),
+2005, pp. 48-62.
+```
+
+### Randomness
 - [[BVFHS@PVLDB’12]](http://dl.acm.org/citation.cfm?id=2212359)
 ```
 Peter Bailis, Shivaram Venkataraman, Michael J. Franklin, Joseph M. Hellerstein, and Ion Stoica,
@@ -44,7 +53,7 @@ Peter Bailis, Shivaram Venkataraman, Michael J. Franklin, Joseph M. Hellerstein,
 In Proc. VLDB Endow. vol. 5, no. 8, 2012, pp. 776-787.
 ```
 
-### Timed Consistency Models
+### Timeliness
 - [[SRH@SPAA'97]](http://dl.acm.org/citation.cfm?id=258513)
 ```
 Aman Singla, Umakishore Ramachandran, and Jessica Hodgins, 
@@ -65,6 +74,8 @@ ACM, 1999, pp. 163--172.
 ```
 Francisco J. Torres-Rojas and Esteban Meneses, “Convergence Through a Weak Consistency Model: Timed Causal Consistency”, In clei electronic journal, vol. 8, no. 2, paper 2, 2005.
 ```
+
+### Numerical Values
 
 ## Monitoring
 

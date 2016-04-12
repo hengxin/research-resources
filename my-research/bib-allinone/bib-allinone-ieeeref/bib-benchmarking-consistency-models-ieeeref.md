@@ -54,4 +54,9 @@ In Proceedings of the eighteenth annual ACM symposium on Principles of distribut
 ACM, 1999, pp. 163--172.
 ```
 
+- [[TM@CLEIej’05]](http://www.clei.org/cleiej/paper.php?id=110)
+```
+Francisco J. Torres-Rojas and Esteban Meneses, “Convergence Through a Weak Consistency Model: Timed Causal Consistency”, In clei electronic journal, vol. 8, no. 2, paper 2, 2005.
+```
+
 ## Monitoring

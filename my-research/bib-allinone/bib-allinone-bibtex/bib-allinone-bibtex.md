@@ -1,5 +1,7 @@
 # Bibs All-In-One (in BibTeX)
 
+## [Books](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-bibtex/bib-books-bibtex.md)
+
 ## Computability and Complexity
 
 ### Computability of Registers

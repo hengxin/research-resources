@@ -36,8 +36,15 @@ In Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing 
 
 ## Quantifying
 
-### Timed Consistency Models
+### Probabilistic Consistency Models
+- [[BVFHS@PVLDB’12]](http://dl.acm.org/citation.cfm?id=2212359)
+```
+Peter Bailis, Shivaram Venkataraman, Michael J. Franklin, Joseph M. Hellerstein, and Ion Stoica,
+"Probabilistically bounded staleness for practical partial quorums," 
+In Proc. VLDB Endow. vol. 5, no. 8, 2012, pp. 776-787.
+```
 
+### Timed Consistency Models
 - [[SRH@SPAA'97]](http://dl.acm.org/citation.cfm?id=258513)
 ```
 Aman Singla, Umakishore Ramachandran, and Jessica Hodgins, 
@@ -60,3 +67,10 @@ Francisco J. Torres-Rojas and Esteban Meneses, “Convergence Through a Weak Con
 ```
 
 ## Monitoring
+
+## Overall
+
+- [[Bermbach@Thesis’14]](http://dblp.org/rec/books/daglib/0035615)
+```
+David Bermbach, “Benchmarking eventually consistent distributed storage systems,” Ph.D. dissertation, Karlsruhe Institute of Technology, Karlsruhe, Germany, 2014.
+```

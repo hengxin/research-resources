@@ -20,6 +20,19 @@
 }
 ```
 
+- [[LS@FTCS'97]](http://dl.acm.org/citation.cfm?id=795670.796859)
+```
+@inproceedings{Lynch:1997:RES:795670.796859,
+ author = {Lynch, N. A. and Shvartsman, A. A.},
+ title = {Robust Emulation of Shared Memory Using Dynamic Quorum-acknowledged Broadcasts},
+ booktitle = {Proceedings of the 27th International Symposium on Fault-Tolerant Computing (FTCS '97)},
+ series = {FTCS '97},
+ year = {1997},
+ pages = {272--},
+ publisher = {IEEE Computer Society},
+}
+```
+
 ## Linearizability
 - [[HW@TOPLAS'90]](http://dl.acm.org/citation.cfm?id=78972)
 ```
@@ -55,6 +68,7 @@
 
 ## Computability and Complexity
 
+### Computability of Registers
 - [[DS@SIAM J. Comput.'97]](http://dl.acm.org/citation.cfm?id=249364.249372)
 ```
 @article{Dolev:1997:BCT:249364.249372,
@@ -69,3 +83,27 @@
  numpages = {38},
 }
 ```
+
+- [[Taubenfeld@ICDCN'13]](http://link.springer.com/chapter/10.1007%2F978-3-642-35668-1_29)
+```
+@inproceedings{Taubenfeld13,
+  author    = {Gadi Taubenfeld},
+  title     = {Weak Read/Write Registers},
+  booktitle = {Proceedings of the 14th International Conference on Distributed Computing and Networking},
+  pages     = {423--427},
+  year      = {2013},
+}
+```
+
+### Complexity of Registers
+- [[DGLC@PODC'04]](http://dl.acm.org/citation.cfm?id=1011802)
+@inproceedings{Dutta:2004:FDA:1011767.1011802,
+ author = {Dutta, Partha and Guerraoui, Rachid and Levy, Ron R. and Chakraborty, Arindam},
+ title = {How Fast Can a Distributed Atomic Read Be?},
+ booktitle = {Proceedings of the Twenty-third Annual ACM Symposium on Principles of Distributed Computing},
+ series = {PODC '04},
+ year = {2004},
+ pages = {236--245},
+ numpages = {10},
+ publisher = {ACM},
+}

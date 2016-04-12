@@ -1,4 +1,4 @@
-# Bibs on Consistency Models in Distributed Storage Systems (BibTeX)
+# Consistency Models (System and Practice) (BibTeX)
 
 - [[Vogels@CACM'09]](http://dl.acm.org/citation.cfm?id=1435432)
 ```

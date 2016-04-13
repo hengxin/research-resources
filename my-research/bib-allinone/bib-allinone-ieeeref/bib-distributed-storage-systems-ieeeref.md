@@ -36,3 +36,7 @@ James C. Corbett, Jeffrey Dean, Michael Epstein, Andrew Fikes, Christopher Frost
 "Spanner: Google’s Globally Distributed Database," 
 ACM Trans. Comput. Syst. 31, 3, Article 8 (August 2013), 2013, 22 pages.
 ```
+
+## URLs
+
+- [Riak’s URL](http://basho.com/products/#riak)

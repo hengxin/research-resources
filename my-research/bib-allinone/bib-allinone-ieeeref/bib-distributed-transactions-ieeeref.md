@@ -1,12 +1,20 @@
 # Bibs on Distributed Transactions (IEEERef)
 
 ## Transactional Consistency Models
-- [[BFFGHS@PVLDB'14]](http://dl.acm.org/citation.cfm?id=2588562)
+- [[BFHGS@SIGMOD'14]](http://dl.acm.org/citation.cfm?id=2588562)
 ```
 Peter Bailis, Alan Fekete, Joseph M. Hellerstein, Ali Ghodsi, and Ion Stoica, 
 "Scalable atomic visibility with RAMP transactions," 
 In Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data (SIGMOD '14),
 ACM, 2014, pp. 27-38.
+```
+
+## Concurrency Control Protocols
+- [[BFFGHS@PVLDB’14]](http://dl.acm.org/citation.cfm?id=2735509)
+```
+Peter Bailis, Alan Fekete, Michael J. Franklin, Ali Ghodsi, Joseph M. Hellerstein, and Ion Stoica, 
+"Coordination avoidance in database systems," 
+In Proc. VLDB Endow. vol. 8, no. 3, 2014, pp. 185-196.
 ```
 
 ## Commit Protocols

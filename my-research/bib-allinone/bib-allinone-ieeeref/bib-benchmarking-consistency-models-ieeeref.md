@@ -37,7 +37,7 @@ In Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing 
 ## Quantifying
 
 ### Versions
-- [[Aiyer@DISC’05]](http://dl.acm.org/citation.cfm?id=2162326)
+- [[AAB@DISC’05]](http://dl.acm.org/citation.cfm?id=2162326)
 ```
 Amitanand Aiyer, Lorenzo Alvisi, and Rida A. Bazzi,
 "On the availability of non-strict quorum systems,"

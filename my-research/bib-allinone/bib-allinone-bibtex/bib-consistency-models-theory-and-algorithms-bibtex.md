@@ -123,6 +123,7 @@
 
 ### Complexity of Registers
 - [[DGLC@PODC'04]](http://dl.acm.org/citation.cfm?id=1011802)
+```
 @inproceedings{Dutta:2004:FDA:1011767.1011802,
  author = {Dutta, Partha and Guerraoui, Rachid and Levy, Ron R. and Chakraborty, Arindam},
  title = {How Fast Can a Distributed Atomic Read Be?},
@@ -133,3 +134,4 @@
  numpages = {10},
  publisher = {ACM},
 }
+```

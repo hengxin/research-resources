@@ -59,6 +59,19 @@
 ## Quantifying
 
 ### Versions
+- [[AAB@DISC'05]](http://dl.acm.org/citation.cfm?id=2162326) % k-atomicity
+```
+@inproceedings{Aiyer05,
+ author = {Aiyer, Amitanand and Alvisi, Lorenzo and Bazzi, Rida A.},
+ title = {On the Availability of Non-strict Quorum Systems},
+ booktitle = {Proceedings of the 19th International Conference on Distributed Computing},
+ series = {DISC'05},
+ year = {2005},
+ pages = {48--62},
+ numpages = {15},
+ publisher = {Springer-Verlag},
+} 
+```
 
 ### Randomness
 

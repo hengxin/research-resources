@@ -4,6 +4,32 @@
 
 ## Atomicity
 
+- [[Lamport@DC'86:1]](http://link.springer.com/article/10.1007%2FBF01786227)
+```
+@article{interprocess-Lamport86-dc,
+  author = {Lamport, Leslie},
+  title = {On interprocess communication (Part I: Basic formalism)},
+  journal = {Distrib. Comput.},
+  volume = {1},
+  number = {2},
+  year = {1986},
+  pages = {77--85},
+}
+```
+
+- [[Lamport@Dc'86:2]](http://link.springer.com/article/10.1007%2FBF01786228)
+```
+@article{interprocess-Lamport86-dc,
+  author = {Lamport, Leslie},
+  title = {On interprocess communication (Part II: Algorithms)},
+  journal = {Distrib. Comput.},
+  volume = {1},
+  number = {2},
+  year = {1986},
+  pages = {86--101},
+}
+```
+
 - [[ABD@JACM'95]](http://dl.acm.org/citation.cfm?id=200869)
 ```
 @article{Attiya95,

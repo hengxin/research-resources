@@ -47,7 +47,7 @@ year = {1982},
 ### Paxos
 - [[Lamport@TOCS'98]](http://dl.acm.org/citation.cfm?id=279229)
 ```
-@article{Lamport:1998:PP:279227.279229,
+@article{Lamport98,
  author = {Lamport, Leslie},
  title = {The Part-time Parliament},
  journal = {ACM Trans. Comput. Syst.},

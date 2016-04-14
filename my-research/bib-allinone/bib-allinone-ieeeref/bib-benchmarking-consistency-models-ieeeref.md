@@ -46,6 +46,13 @@ In Proceedings of the 19th international conference on Distributed Computing (DI
 ```
 
 ### Randomness
+- [[LW@DC'05]](http://link.springer.com/article/10.1007%2Fs00446-004-0106-3)
+```
+Hyunyoung Lee and Jennifer L. Welch,
+"Randomized registers and iterative algorithms,"
+Distrib. Comput. vol. 17, no. 3, 2005, pp. 209-221.
+```
+
 - [[BVFHS@PVLDB’12]](http://dl.acm.org/citation.cfm?id=2212359)
 ```
 Peter Bailis, Shivaram Venkataraman, Michael J. Franklin, Joseph M. Hellerstein, and Ion Stoica,

@@ -124,7 +124,7 @@
 ### Complexity of Registers
 - [[DGLC@PODC'04]](http://dl.acm.org/citation.cfm?id=1011802)
 ```
-@inproceedings{Dutta:2004:FDA:1011767.1011802,
+@inproceedings{Dutta04,
  author = {Dutta, Partha and Guerraoui, Rachid and Levy, Ron R. and Chakraborty, Arindam},
  title = {How Fast Can a Distributed Atomic Read Be?},
  booktitle = {Proceedings of the Twenty-third Annual ACM Symposium on Principles of Distributed Computing},
@@ -133,5 +133,32 @@
  pages = {236--245},
  numpages = {10},
  publisher = {ACM},
+}
+```
+
+- [[GV@PODC'07]](http://dl.acm.org/citation.cfm?id=1281120)
+```
+@inproceedings{Guerraoui07,
+ author = {Guerraoui, Rachid and Vukoli\'{C}, Marko},
+ title = {Refined Quorum Systems},
+ booktitle = {Proceedings of the Twenty-sixth Annual ACM Symposium on Principles of Distributed Computing},
+ series = {PODC '07},
+ year = {2007},
+ pages = {119--128},
+ numpages = {10},
+ publisher = {ACM},
+}
+```
+
+- [[GNS@DISC'08]](http://link.springer.com/chapter/10.1007%2F978-3-540-87779-0_20)
+```
+@inproceedings{Georgiou08,
+ author = {Georgiou, Chryssis and Nicolaou, Nicolas C. and Shvartsman, Alexander A.},
+ title = {On the Robustness of (Semi) Fast Quorum-Based Implementations of Atomic Shared Memory},
+ booktitle = {Proceedings of the 22Nd International Symposium on Distributed Computing},
+ series = {DISC '08},
+ year = {2008},
+ pages = {289--304},
+ numpages = {16},
 }
 ```

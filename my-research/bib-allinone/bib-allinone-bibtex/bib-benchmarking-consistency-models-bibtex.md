@@ -74,6 +74,36 @@
 ```
 
 ### Randomness
+- [[LW@DC'05]](http://link.springer.com/article/10.1007%2Fs00446-004-0106-3)
+```
+@article{Lee05,
+ author = {Lee, Hyunyoung and Welch, Jennifer L.},
+ title = {Randomized Registers and Iterative Algorithms},
+ journal = {Distrib. Comput.},
+ volume = {17},
+ number = {3},
+ month = mar,
+ year = {2005},
+ pages = {209--221},
+ numpages = {13},
+} 
+```
+
+- [[BVFHS@PVLDB’12]](http://dl.acm.org/citation.cfm?id=2212359)
+```
+@article{Bailis12,
+ author = {Bailis, Peter and Venkataraman, Shivaram and Franklin, Michael J. and Hellerstein, Joseph M. and Stoica, Ion},
+ title = {Probabilistically Bounded Staleness for Practical Partial Quorums},
+ journal = {Proc. VLDB Endow.},
+ issue_date = {April 2012},
+ volume = {5},
+ number = {8},
+ month = apr,
+ year = {2012},
+ pages = {776--787},
+ numpages = {12},
+}
+```
 
 ### Timeliness
 - [[SRH@SPAA'97]](http://dl.acm.org/citation.cfm?id=258513)

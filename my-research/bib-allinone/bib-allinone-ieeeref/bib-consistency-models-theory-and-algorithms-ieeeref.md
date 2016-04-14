@@ -72,3 +72,18 @@ Partha Dutta, Rachid Guerraoui, Ron R. Levy, and Arindam Chakraborty,
 In Proceedings of the twenty-third annual ACM symposium on Principles of distributed computing (PODC '04), 
 ACM, 2004, pp. 236-245.
 ```
+
+- [[GV@PODC'07]](http://dl.acm.org/citation.cfm?id=1281120)
+```
+Rachid Guerraoui and Marko VukoliĆ,
+"Refined quorum systems," 
+In Proceedings of the twenty-sixth annual ACM symposium on Principles of distributed computing (PODC '07),
+ACM, 2007, pp. 119-128.
+```
+
+- [[GNS@DISC'08]](http://link.springer.com/chapter/10.1007%2F978-3-540-87779-0_20)
+```
+Chryssis Georgiou, Nicolas C. Nicolaou, and Alexander A. Shvartsman,
+"On the robustness of (semi) fast quorum-based implementations of atomic shared memory,"
+In Proceedings of the 22nd international symposium on Distributed Computing (DISC '08), 2008, pp. 289-304. 
+```

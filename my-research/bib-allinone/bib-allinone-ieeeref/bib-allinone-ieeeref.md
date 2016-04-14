@@ -2,25 +2,7 @@
 
 ## [Books](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-books-ieeeref.md)
 
-## The Consensus Problem
-
-- [[FL@IPL'82]](http://www.sciencedirect.com/science/article/pii/0020019082900333)
-```
-M. Fischer and N. Lynch, "A lower bound for the time to assure interactive consistency", 
-Inform. Process. Lett., vol. 14, no. 4, 1982, pp. 183-186.
-```
-
-- [[Lamport@FDiDC'03]](http://dl.acm.org/citation.cfm?id=1809321)
-```
-Leslie Lamport, "Lower bounds for asynchronous consensus," 
-In Future directions in distributed computing, André Schiper, Alex A. Shvartsman, Hakim Weatherspoon, and Ben Y. Zhao (Eds.). Lecture Notes In Computer Science, Vol. 2584. Springer-Verlag, 2003, pp. 22-23.
-```
-
-- [[Lamport@DC'06]](http://link.springer.com/article/10.1007%2Fs00446-006-0155-x)
-```
-Leslie Lamport, "Lower bounds for asynchronous consensus,"
-Distributed Computing, vol 19, no. 2, 2006, pp. 104--125.
-```
+## [The Consensus Problem](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-consensus-ieeeref.md)
 
 ## [Quorum Systems](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-ieeeref/bib-quorum-system-ieeeref.md)
 

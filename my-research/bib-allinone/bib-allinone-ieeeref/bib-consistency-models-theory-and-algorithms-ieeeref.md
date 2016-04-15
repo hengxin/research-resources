@@ -1,6 +1,12 @@
 # Bibs on Consistency Models: Theory and Algorithms (IEEERef)
 
 ## Framework
+- [[SN@JACM'04]](http://dl.acm.org/citation.cfm?id=1017464)
+```
+Robert C. Steinke and Gary J. Nutt, 
+"A unified theory of shared memory consistency,"
+J. ACM, vol. 51, no. 5, 2004, pp. 800-849.
+```
 
 ## Atomicity
 - [[Lamport@DC'86:1]](http://link.springer.com/article/10.1007%2FBF01786227)

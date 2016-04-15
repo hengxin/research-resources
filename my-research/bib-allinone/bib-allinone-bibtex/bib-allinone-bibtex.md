@@ -8,7 +8,7 @@
 
 ## Consistency Models
 
-### [Consistency Models (Theory and Algorithms)](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-bibtex/bib-consistency-models-theory-algorithms-bibtex.md)
+### [Consistency Models (Theory and Algorithms)](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-bibtex/bib-consistency-models-theory-and-algorithms-bibtex.md)
 
 ### [Consistency Models (System and Practice)](https://github.com/hengxin/research-resources/blob/master/my-research/bib-allinone/bib-allinone-bibtex/bib-consistency-models-system-and-practice-bibtex.md)
 

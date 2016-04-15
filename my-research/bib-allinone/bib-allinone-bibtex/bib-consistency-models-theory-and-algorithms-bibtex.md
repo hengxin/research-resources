@@ -1,6 +1,21 @@
 # Bibs on Consistency Models: Theory and Algorithms (BibTex)
 
 ## Framework
+- [[SN@JACM'04]](http://dl.acm.org/citation.cfm?id=1017464)
+```
+@article{Steinke04,
+ author = {Steinke, Robert C. and Nutt, Gary J.},
+ title = {A Unified Theory of Shared Memory Consistency},
+ journal = {J. ACM},
+ volume = {51},
+ number = {5},
+ month = sep,
+ year = {2004},
+ pages = {800--849},
+ numpages = {50},
+ publisher = {ACM},
+}
+```
 
 ## Atomicity
 

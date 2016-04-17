@@ -36,6 +36,13 @@ In Proceedings of the 27th International Symposium on Fault-Tolerant Computing (
 IEEE Computer Society, 1997, pp. 272-.
 ```
 
+- [[Attiya@EATCS'10]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.154.6450)
+```
+Hagit Attiya, 
+"Robust simulation of shared memory: 20 years after,"
+Bulletin of the EATCS, vol. 100, 2010, pp. 99-113.
+```
+
 ## Linearizability
 - [[HW@TOPLAS'90]](http://dl.acm.org/citation.cfm?id=78972)
 ```

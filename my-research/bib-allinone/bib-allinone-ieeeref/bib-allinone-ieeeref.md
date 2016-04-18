@@ -34,7 +34,7 @@ In Proceedings of the 2001 ACM SIGMETRICS international conference on Measuremen
 Thomas Karagiannis and Mart Molle and Michalis Faloutsos and Andre Broido,
 "A Nonstationary Poisson View of Internet Traffic,"
 In Proceedings {IEEE} {INFOCOM} 2004, The 23rd Annual Joint Conference of the {IEEE} Computer and Communications Societies, 
-March, 2004
+March, 2004, pp. 1558-1569.
 ```
 
 ### Empirical Study

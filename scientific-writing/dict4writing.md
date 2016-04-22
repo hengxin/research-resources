@@ -28,11 +28,18 @@ A wonderful site: [Common Errors in English Usage](http://public.wsu.edu/~brians
 ### Words and Phrases
 
 #### Online Dictionary
+- [Merriam-Webster](http://www.merriam-webster.com/)
 - [Oxford Dictionaries](http://www.oxforddictionaries.com/)
 - [Oxford Collocation Dictionary](http://oxforddictionary.so8848.com/)
 - [TheFreeDictionary](http://www.thefreedictionary.com/)
 - [Wordnet](http://wordnet-online.freedicts.com/)
 - [YouDao](http://dict.youdao.com/)
+
+#### Online Corpora
+- [corpus.byu.edu](http://corpus.byu.edu/)
+  The corpora at this site were created by Mark Davies, Professor of Linguistics at Brigham Young University. These are probably the most widely-used corpora currently available.
+- [BYU-BNC: BRITISH NATIONAL CORPUS](http://corpus.byu.edu/bnc/)
+  This website allows you to quickly and easily search the 100 million word British National Corpus (1970s-1993).
 
 #### Words
 
@@ -60,3 +67,8 @@ A wonderful site: [Common Errors in English Usage](http://public.wsu.edu/~brians
 ## Figures and Tables
 
 A wonderful article [Almost Everything You Wanted to Know About Making Tables and Figures](http://abacus.bates.edu/~ganderso/biology/resources/writing/HTWtablefigs.html#topofpage).
+
+## Tools
+
+- [acronymify](http://acronymify.com/)
+  Simply enter your words in the above box and press search to generate a list of possible acronyms. That's it!

@@ -9,6 +9,20 @@ A distributed shared memory is a mechanism allowing end-users' processes to acce
 without using inter-process communications.
 ```
 
+- [Thesis96: Mechanisms for Distributed Shared Memory](ftp://ftp.cs.wisc.edu/wwt/theses/reinhardt-2side.pdf)
+```
+Two prevalent types of distributed-memory machines — message passing and distributed shared memory — handle 
+these tasks in markedly different ways.
+```
+```
+In contrast, distributed shared memory (DSM) systems distribute and communicate data automatically. 
+These systems provide the abstraction of one global, uniformly fast memory.
+```
+```
+I identify three mechanisms that underlie nearly all DSM systems: messaging, local storage management,
+and memory access control.
+```
+
 - Paper: Distributed Shared Memory: Concepts and Systems
 
 ### Distributed Systems (and Particularly, Distributed Storage Systems)
@@ -32,3 +46,12 @@ offering a DSM to their users
 ```
 
 ## Systems
+
+## Related Concepts and Systems
+
+### Tuple Space
+- [Tuple Space Middleware for Wireless Networks](http://research.microsoft.com/en-us/um/people/pcosta/papers/costa09tuple.pdf)
+```
+The following outlines the main tuple space approaches developed for mobile settings: 
+TSpaces, L^{2}imbo, LIME, EgoSpaces, and TOTA.
+```

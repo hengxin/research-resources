@@ -66,3 +66,16 @@
  publisher = {USENIX Association},
 }
 ```
+
+- [lloyd@SOSP'11](http://dl.acm.org/citation.cfm?id=2043593)
+```
+@inproceedings{lloyd-cops-11,
+ author = {Lloyd, Wyatt and Freedman, Michael J. and Kaminsky, Michael and Andersen, David G.},
+ title = {Don'T Settle for Eventual: Scalable Causal Consistency for Wide-area Storage with COPS},
+ booktitle = {Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles},
+ series = {SOSP '11},
+ year = {2011},
+ pages = {401--416},
+ publisher = {ACM},
+}
+```

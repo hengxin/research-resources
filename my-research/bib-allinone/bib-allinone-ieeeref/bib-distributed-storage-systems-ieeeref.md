@@ -37,6 +37,14 @@ James C. Corbett, Jeffrey Dean, Michael Epstein, Andrew Fikes, Christopher Frost
 ACM Trans. Comput. Syst. 31, 3, Article 8 (August 2013), 2013, 22 pages.
 ```
 
+- [[lloyd@SOSP'11]](http://dl.acm.org/citation.cfm?id=2043593)
+```
+Wyatt Lloyd, Michael J. Freedman, Michael Kaminsky, and David G. Andersen,
+"Don't settle for eventual: scalable causal consistency for wide-area storage with COPS,"
+In Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles (SOSP '11),
+ACM, 2011, pp. 401-416. 
+```
+
 ## URLs
 
 - [Riak’s URL](http://basho.com/products/#riak)

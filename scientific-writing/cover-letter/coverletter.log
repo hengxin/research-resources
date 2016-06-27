@@ -1,0 +1,95 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.12.27)  30 APR 2016 17:30
+entering extended mode
+ restricted \write18 enabled.
+ Source specials enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**coverletter.tex
+(./coverletter.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/letter.cls
+Document Class: letter 2014/09/29 v1.2z Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\longindentation=\dimen102
+\indentedwidth=\dimen103
+\labelcount=\count79
+)
+(./coverletter.aux)
+\openout1 = `coverletter.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 12.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 27.
+ [1
+
+]
+./coverletter.tex:33: Incomplete \iffalse; all text was ignored after line 33.
+<inserted text> 
+                \fi 
+l.33 \end{letter}
+                 
+A forbidden control sequence occurred in skipped text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+Runaway text?
+\@mlabel{}{\unhbox \voidb@x \ignorespaces \global \let 
+./coverletter.tex:33: Forbidden control sequence found while scanning text of \
+write.
+<inserted text> 
+                }
+l.33 \end{letter}
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Runaway text?
+\@mlabel{}{\unhbox \voidb@x \ignorespaces \global \let  }
+./coverletter.tex:33: Forbidden control sequence found while scanning text of \
+write.
+<inserted text> 
+                }
+l.33 \end{letter}
+                 
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+(./coverletter.aux) )
+(\end occurred when \iftrue on line 33 was incomplete) 
+Here is how much of TeX's memory you used:
+ 161 strings out of 493668
+ 1772 string characters out of 6145662
+ 55498 words of memory out of 5000000
+ 3625 multiletter control sequences out of 15000+600000
+ 4593 words of font info for 17 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 23i,4n,19p,136b,173s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on coverletter.pdf (1 page).

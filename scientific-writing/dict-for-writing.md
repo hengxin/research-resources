@@ -46,6 +46,14 @@ A wonderful site: [Common Errors in English Usage](http://public.wsu.edu/~brians
 - giving all the credit to 
 - the tradeoff between ... and ...
 - at the expense of ...
+- rephrase the sentence ... "into" ... 
+
+####
+- [Furthermore vs. Moreover](http://ell.stackexchange.com/a/3148)
+
+Moreover and furthermore are essentially interchangeable synonyms. 
+
+Advice: try to eliminate as many instances of "moreover" and "furthermore" as possible.
 
 #### Abbreviations
 - `i.e.` 与 `e.g.` 的用法 
@@ -100,6 +108,10 @@ A wonderful site: [Common Errors in English Usage](http://public.wsu.edu/~brians
 - It remains to give a recipe for the construction of ... 
 - The meaning should be clear from the context. 
 - The case when ... is symmetrical.
+- Polymorphism, overloading, and subtyping can make a type system more powerful, *but at the cost of* increased complexity, and such refinements
+  can never *attain* the flexibility of having no types at all. [lamport-type]
+- Byzantine failures are *considered the most general and most difficult class* of failures among the failure modes. 
+  So called fail-stop failure mode *occupies* the simplest end of the spectrum. [wiki: Byzantine fault tolerance]
 
 ## Figures and Tables
 

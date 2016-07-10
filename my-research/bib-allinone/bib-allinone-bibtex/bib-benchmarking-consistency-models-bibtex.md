@@ -119,6 +119,23 @@
 }
 ```
 
+- [[FRMGW@VLDB'15]](http://dl.acm.org/citation.cfm?id=2752949)
+```
+@article{Fan-VLDB15,
+ author = {Fan, Hua and Ramaraju, Aditya and McKenzie, Marlon and Golab, Wojciech and Wong, Bernard},
+ title = {Understanding the Causes of Consistency Anomalies in Apache Cassandra},
+ journal = {Proc. VLDB Endow.},
+ issue_date = {February 2015},
+ volume = {8},
+ number = {7},
+ month = feb,
+ year = {2015},
+ pages = {810--813},
+ url = {http://dx.doi.org/10.14778/2752939.2752949},
+ publisher = {VLDB Endowment},
+} 
+```
+
 ### Numerical Values
 
 

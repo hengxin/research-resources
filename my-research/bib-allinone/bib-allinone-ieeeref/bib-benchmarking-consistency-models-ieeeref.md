@@ -69,6 +69,13 @@ In Proceedings of the ninth annual ACM symposium on Parallel algorithms and arch
 1997, pp. 211-220.
 ```
 
+- [[FRMGW@VLDB'15]](http://dl.acm.org/citation.cfm?id=2752949)
+```
+Hua Fan, Aditya Ramaraju, Marlon McKenzie, Wojciech Golab, and Bernard Wong, 
+"Understanding the causes of consistency anomalies in Apache Cassandra," 
+In Proc. VLDB Endow. vol. 8, no. 7, February 2015, 810-813. 
+```
+
 - [[TAR@PODC'99]](http://dl.acm.org/citation.cfm?id=301308.301350)
 ```
 Francisco J. Torres-Rojas, Mustaque Ahamad, and Michel Raynal, 

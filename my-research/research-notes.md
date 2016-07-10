@@ -22,4 +22,24 @@ Experiments on quantifying atomicity violations in PA2AM:
 - An observation: long-lived writes are more likely to induce atomicity violations. 
 Thus, optimize the write path is crucial to avoiding atomicity violations.
 - An idea: carry out experiments with Cassandra
+  - Cassandra's write path: commitlog -> memtable -> (*async*) ssttable
+  - No *real* write in this write path!
 - Reference: Understanding the Causes of Consistency Anomalies in Apache Cassandra, VLDB'15
+
+## 2016-07-07 (Thu.)
+
+- Cassandra projects:
+  - products like Jinsan Kuaipan
+
+- Replicated data structures:
+  - Cassandra does not provide them. *Why?*
+  - What is the consistency model of Redis' replicated data structures?
+
+- Redis:
+  - architecture?
+
+## 2016-07-09 (Sat.)
+
+- paper-tc-2am-minor-revision:
+  - Numerical analysis: the rate of atomicity violations has a limiting value as the number of clients increases.
+  - Possible reason: It is the limit of the system capacity.

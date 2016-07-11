@@ -40,6 +40,18 @@ Thus, optimize the write path is crucial to avoiding atomicity violations.
 
 ## 2016-07-09 (Sat.)
 
-- paper-tc-2am-minor-revision:
+- **paper-tc-2am-minor-revision:**
   - Numerical analysis: the rate of atomicity violations has a limiting value as the number of clients increases.
   - Possible reason: It is the limit of the system capacity.
+
+## 2016-07-11 (Mon.)
+
+- About causality:
+  - respect real-time orders of *w/r* and *r/r* to enhence liveness
+  - what is strength of such consistency model (compared to causality)
+  - real-time causality: implementation (ref: JACM'07)
+  - semi-sync. causality (ref: beyond Lamport's clock)
+  - the "bolt-on" paper
+- About *availablity*:
+  - multi-object availability: (ref: Haifeng YU)
+  - new definition of "single object available"

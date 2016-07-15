@@ -15,7 +15,7 @@ Leslie Lamport, “On interprocess communication (part i: basic formalism),”
 Distrib. Comput., vol. 1, no. 2, 1986, pp. 77–85.
 ```
 
-- [[Lamport@Dc'86:2]](http://link.springer.com/article/10.1007%2FBF01786228)
+- [[Lamport@DC'86:2]](http://link.springer.com/article/10.1007%2FBF01786228)
 ```
 Leslie Lamport, “On interprocess communication (part ii: algorithms),” 
 Distrib. Comput., vol. 1, no. 2, 1986, pp. 86–101.

@@ -1,6 +1,6 @@
 # Bibs on Consistency Models: Theory and Algorithms (BibTex)
 
-## Framework
+## Frameworks of Consistency Models
 - [[SN@JACM'04]](http://dl.acm.org/citation.cfm?id=1017464)
 ```
 @article{Steinke04,
@@ -14,6 +14,24 @@
  pages = {800--849},
  numpages = {50},
  publisher = {ACM},
+}
+```
+
+## Consistency Models (in chronological order)
+
+### Sequential consistency
+- [[Lamport@TC'79]](http://research.microsoft.com/en-us/um/people/lamport/pubs/multi.pdf)
+```
+@article{Lamport79,
+ author = {Lamport, L.},
+ title = {How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs},
+ journal = {IEEE Trans. Comput.},
+ volume = {28},
+ number = {9},
+ year = {1979},
+ pages = {690--691},
+ url = {http://dx.doi.org/10.1109/TC.1979.1675439},
+ publisher = {IEEE Computer Society},
 }
 ```
 
@@ -32,7 +50,7 @@
 }
 ```
 
-- [[Lamport@Dc'86:2]](http://link.springer.com/article/10.1007%2FBF01786228)
+- [[Lamport@DC'86:2]](http://link.springer.com/article/10.1007%2FBF01786228)
 ```
 @article{interprocess-Lamport86-dc,
   author = {Lamport, Leslie},
@@ -63,7 +81,7 @@
 
 - [[LS@FTCS'97]](http://dl.acm.org/citation.cfm?id=795670.796859)
 ```
-@inproceedings{Lynch:1997:RES:795670.796859,
+@inproceedings{Lynch97,
  author = {Lynch, N. A. and Shvartsman, A. A.},
  title = {Robust Emulation of Shared Memory Using Dynamic Quorum-acknowledged Broadcasts},
  booktitle = {Proceedings of the 27th International Symposium on Fault-Tolerant Computing (FTCS '97)},
@@ -124,7 +142,7 @@ year = 2010,
 ### Computability of Registers
 - [[DS@SIAM J. Comput.'97]](http://dl.acm.org/citation.cfm?id=249364.249372)
 ```
-@article{Dolev:1997:BCT:249364.249372,
+@article{Dolev97,
  author = {Dolev, Danny and Shavit, Nir},
  title = {Bounded Concurrent Time-Stamping},
  journal = {SIAM J. Comput.},

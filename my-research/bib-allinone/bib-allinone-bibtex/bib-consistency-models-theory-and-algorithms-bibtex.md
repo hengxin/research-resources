@@ -104,6 +104,18 @@ year = 2010,
 }
 ```
 
+## PRAM
+- [[Lipton@TR'88]](https://www.cs.princeton.edu/research/techreps/TR-180-88)
+```
+@techreport{Lipton88,
+  author = {Lipton, R.J. and Sandberg, J.S.},
+  title = {{PRAM}: a scalable shared memory},
+  month = sep,
+  year = {1988},
+  institution = {CS-TR-180-88, Princeton University},
+}
+```
+
 ## Linearizability
 - [[HW@TOPLAS'90]](http://dl.acm.org/citation.cfm?id=78972)
 ```

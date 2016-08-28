@@ -79,3 +79,13 @@
  publisher = {ACM},
 }
 ```
+
+## Distributed Storage Systems (Web Sites)
+- [Amazon S3 (Simple Storage Service)](https://aws.amazon.com/s3/): https://aws.amazon.com/s3/
+- [Aliyun OOS (Object Storage Service)](https://cn.aliyun.com/product/oss): https://cn.aliyun.com/product/oss
+- [Apache Cassandra](http://cassandra.apache.org/): http://cassandra.apache.org/
+- [Redis](http://redis.io/): http://redis.io/
+- [MongoDB](https://www.mongodb.com/): https://www.mongodb.com/
+- [Apache HBase](https://hbase.apache.org/): https://hbase.apache.org/
+- [Riak](http://basho.com/products/#riak): http://basho.com/products/#riak
+- [Project Voldemort](http://www.project-voldemort.com/voldemort/): http://www.project-voldemort.com/voldemort/

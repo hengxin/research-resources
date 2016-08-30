@@ -79,6 +79,20 @@
  publisher = {ACM},
 }
 ```
+- [strauss@atc11](https://www.usenix.org/legacy/events/atc11/tech/final_files/Strauss.pdf)
+```
+@inproceedings{strauss:atc11,
+ author = {Strauss, Jacob and Paluska, Justin Mazzola and Lesniewski-Laas, Chris and Ford, Bryan and Morris, Robert and Kaashoek, Frans},
+ title = {Eyo: Device-transparent Personal Storage},
+ booktitle = {Proceedings of the 2011 USENIX Conference on USENIX Annual Technical Conference},
+ series = {USENIXATC'11},
+ year = {2011},
+ location = {Portland, OR},
+ numpages = {14},
+ url = {http://dl.acm.org/citation.cfm?id=2002181.2002216},
+ publisher = {USENIX Association},
+} 
+```
 
 ## Distributed Storage Systems (Web Sites)
 - [Amazon S3 (Simple Storage Service)](https://aws.amazon.com/s3/): https://aws.amazon.com/s3/

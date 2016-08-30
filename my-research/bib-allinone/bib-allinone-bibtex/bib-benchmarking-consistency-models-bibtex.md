@@ -89,9 +89,9 @@
 } 
 ```
 
-- [[BVFHS@PVLDB’12]](http://dl.acm.org/citation.cfm?id=2212359)
+- [[Bailis@PVLDB’12]](http://dl.acm.org/citation.cfm?id=2212359)
 ```
-@article{Bailis12,
+@article{bailis:pvldb12,
  author = {Bailis, Peter and Venkataraman, Shivaram and Franklin, Michael J. and Hellerstein, Joseph M. and Stoica, Ion},
  title = {Probabilistically Bounded Staleness for Practical Partial Quorums},
  journal = {Proc. VLDB Endow.},
@@ -102,6 +102,19 @@
  year = {2012},
  pages = {776--787},
  numpages = {12},
+}
+```
+
+- [[Bailis@VLDB'14]](http://www.bailis.org/papers/pbs-vldbj2014.pdf)
+```
+@article{bailis:vldb14,
+  title={Quantifying eventual consistency with PBS},
+  author={Bailis, Peter and Venkataraman, Shivaram and Franklin, Michael J and Hellerstein, Joseph M and Stoica, Ion},
+  journal={The VLDB Journal},
+  volume={23},
+  number={2},
+  pages={279--302},
+  year={2014},
 }
 ```
 

@@ -145,3 +145,125 @@ Thus, optimize the write path is crucial to avoiding atomicity violations.
   - related blog: By Peter Bailis, ["Understanding Weak Isolation Is a Serious Problem"](http://www.bailis.org/blog/understanding-weak-isolation-is-a-serious-problem/)
     - QUOTED: `a PBS-style white-box probabilistic analysis of Postgres, MySQL, or another RDBMS could be enlightening`
   - ***Research:*** Quantifying snapshot isolation/read committed???
+
+### 2016-07-25 (Mon.)
+
+- Linear logic and session types
+  - [abcd: A Basis for Concurrency and Distribution](http://groups.inf.ed.ac.uk/abcd/)
+
+### 2016-07-27 (Wed.)
+
+- ***paper:*** causal memory
+  - some kinds of programs runs correctly on causal memory as on sequential memory
+  - extend this idea to transactional programs
+
+## August 2016
+
+### 2016-08-03 (Wed.)
+
+- Atomicity is a safety property; See [Lynch-Book-1996].
+  - Are safe, regular, causality, (etc,) also safety properties?
+  - What are the benefits of these consistency models as safety properties?
+
+### 2016-08-04 (Thu.)
+
+- ***Category theory:***
+  - git
+  - transactions (isolations)
+  - commute digram (CRDTs?)
+
+### 2016-08-08 (Mon.)
+
+- About *quantifying consistency models*:
+  - quantifying given traces; Golab
+  - quantifying protocols: Quantifying eventual consistency; pa2am
+
+- ***Research Idea:*** weaken "Atomicity" in ACID
+  - CAV paper: Causal Atomicity
+  - "Scalable visible atomicity" paper
+
+### 2016-08-13 (Sat.)
+
+- Verifying hybrid consistency
+  - complexity
+  - variants and algorithms
+  - Question: harder than NP-Complete + (NP?)
+
+### 2016-08-14 (Sun.)
+
+- Verifying causal consistency
+  - wrong: Wei@TPDS'16
+  - complexity
+  - relationship with hybrid consistency
+
+- Unifying non-transactional with transactional consistency models
+  - possible bridge: atomic visibility
+  - possible bridge: hybrid consistency
+
+### 2016-08-15 (Mon.)
+
+- paper: From causal consistency to sequential consistency (by Raynal)
+  - with JACM'04
+  - with "bolt on causal consistency"
+  - ***research idea:*** self configurable among 
+	session guarantees, pram, causal consistency, sequential consistency
+- paper: eventually serializable data services
+  - ***research idea:*** extends to transactions
+  - ref: eventually consistent transactions (MSR)
+
+### 2016-08-18 (Thu.)
+
+- ***research idea:*** Weaken program order
+  - lessons from architecture
+  - nonsequential execution (paper by Attiya)
+
+- ***research idea:*** Weaken intra-transaction order
+
+### 2016-08-19 (Fri.)
+
+- ***research idea:*** new transactional consistency models
+  - fork-join on read/write registers; extends to transactions
+  - pull/pull model of git
+
+### 2016-08-21 (Sun.)
+
+- ***research idea:*** discounting modality in causality
+  - ref: "Averaging in LTL" (CONCUR14); "Discounting in LTL" (arXiv14)
+  - DAG: not a tree!
+
+- ***research idea:*** implements a FileSync app on top of Cassandra (or others)
+  - tree data structure + consistency models (eventual; causal; sequential)
+  - File APIs: 
+    - files: mv (including rename), rm, touch
+    - dirs: ls, mv (including rename), rm, mkdir, cd
+  - refs: attya@PODC16
+
+### 2016-08-25 (Thu.)
+
+- CAS, Test&Set, RMW
+  - randomized
+  - obstruction free
+  - refs: "atomic visibility" (bailis@vldb)
+
+- Between CAS and Transactional Objects
+  - refs: k-CAS (spaa03)
+
+### 2016-08-27 (Sat.)
+
+- To learn ACP (atomic commitment protocol)
+  - 2PC, 3PC, Paxos commit
+- ACP under partial-sync. model
+
+### 2016-08-28 (Sun.)
+
+- Papers to read:
+  - Kung&Papadimitriou: SIGMOD79 "An optimality theory of concurrency control for databases"
+- ***research idea:***
+  - query-guided data partitioning, data replication, consistency, availability
+    - in Cassandra model
+    - refs: "Vertical Partitioning Algorithms for Database Design" (TODS86)
+
+### 2016-08-30 (Tus.)
+
+- Functional data structures used in distributes storage systems
+  - refs: "Immutability Changes Everything" (CACM16)

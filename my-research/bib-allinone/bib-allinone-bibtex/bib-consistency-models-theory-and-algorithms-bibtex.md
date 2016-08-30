@@ -17,6 +17,38 @@
 }
 ```
 
+- [[Viotti@CSUR16]](http://doi.acm.org/10.1145/2926965)
+```
+@article{viotti:csur16,
+ author = {Viotti, Paolo and Vukoli\'{c}, Marko},
+ title = {Consistency in Non-Transactional Distributed Storage Systems},
+ journal = {ACM Comput. Surv.},
+ issue_date = {July 2016},
+ volume = {49},
+ number = {1},
+ month = jun,
+ year = {2016},
+ issn = {0360-0300},
+ pages = {19:1--19:34},
+ articleno = {19},
+ numpages = {34},
+ url = {http://doi.acm.org/10.1145/2926965},
+ publisher = {ACM},
+} 
+```
+- [[Aguilera@TCDE16]](http://sites.computer.org/debull/A16mar/p3.pdf)
+```
+@article{aguilera:tcde16,
+  author = {Aguilera, Marcos K. and Terry, Douglas B.},
+  title = {The Many Faces of Consistency},
+  journal = {Bulletin of the IEEE Computer Society Technical Committee on Data Engineering (TCDE '16)},
+  volume = {39},
+  number = {1},
+  month = mar,
+  year = {2016},
+  pages = {3--13},
+}
+```
 ## Consistency Models (in chronological order)
 
 ### Sequential consistency
@@ -116,6 +148,20 @@ year = 2010,
 }
 ```
 
+- [[Ahamad@SPAA'93]](http://doi.acm.org/10.1145/165231.165264)
+```
+@inproceedings{ahamad:spaa93,
+ author = {Ahamad, Mustaque and Bazzi, Rida A. and John, Ranjit and Kohli, Prince and Neiger, Gil},
+ title = {The Power of Processor Consistency},
+ booktitle = {Proceedings of the Fifth Annual ACM Symposium on Parallel Algorithms and Architectures},
+ series = {SPAA '93},
+ year = {1993},
+ pages = {251--260},
+ url = {http://doi.acm.org/10.1145/165231.165264},
+ publisher = {ACM},
+} 
+```
+
 ## Linearizability
 - [[HW@TOPLAS'90]](http://dl.acm.org/citation.cfm?id=78972)
 ```
@@ -134,9 +180,9 @@ year = 2010,
 
 ## Regular
 
-- [[SWPL@SIAM J. Comput.'11]](http://dl.acm.org/citation.cfm?id=2078669)
+- [[Shao@SIAM J. Comput.'11]](http://dl.acm.org/citation.cfm?id=2078669)
 ```
-@article{Shao11,
+@article{shao:sicomp11,
  author = {Shao, Cheng and Welch, Jennifer L. and Pierce, Evelyn and Lee, Hyunyoung},
  title = {Multiwriter Consistency Conditions for Shared Memory Registers},
  journal = {SIAM J. Comput.},
@@ -145,7 +191,20 @@ year = 2010,
  month = jan,
  year = {2011},
  pages = {28--62},
- numpages = {35},
+}
+```
+
+% attiya:sicomp98
+- [[Attiya@SIAM J. Comput.'98]](http://epubs.siam.org/doi/abs/10.1137/S0097539795289215)
+```
+@article{attiya:sicomp98,
+  author = {Hagit Attiya and Roy Friedman},
+  title = {A Correctness Condition for High-Performance Multiprocessors},
+  journal = {SIAM Journal on Computing},
+  volume = {27},
+  number = {6},
+  pages = {1637-1670},
+  year = {1998},
 }
 ```
 

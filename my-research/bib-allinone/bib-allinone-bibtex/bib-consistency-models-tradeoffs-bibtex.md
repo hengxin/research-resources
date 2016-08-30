@@ -1,9 +1,24 @@
 # Bibs on Consistency Models Related Tradeoffs (BibTeX)
 
 ## The CAP Theorem
+
+- [[Fox@HotOS'99]](http://dl.acm.org/citation.cfm?id=822436)
+```
+@inproceedings{fox:hotos99,
+ author = {Fox, Armando and Brewer, Eric A.},
+ title = {Harvest, Yield, and Scalable Tolerant Systems},
+ booktitle = {Proceedings of the The Seventh Workshop on Hot Topics in Operating Systems},
+ series = {HOTOS '99},
+ year = {1999},
+ pages = {174--178},
+ url = {http://dl.acm.org/citation.cfm?id=822076.822436},
+ publisher = {IEEE Computer Society},
+} 
+```
+
 - [[Brewer@PODC'00]](http://dl.acm.org/citation.cfm?id=343502)
 ```
-@inproceedings{Brewer00,
+@inproceedings{brewer:podc00,
  author = {Brewer, Eric A.},
  title = {Towards Robust Distributed Systems (Abstract)},
  booktitle = {Proceedings of the Nineteenth Annual ACM Symposium on Principles of Distributed Computing},
@@ -12,6 +27,22 @@
  pages = {7--},
  publisher = {ACM},
 }
+```
+
+- [[Gilbert@SIGACT News'02]](http://dl.acm.org/citation.cfm?id=564601)
+```
+@article{gilbert:sigact02,
+ author = {Gilbert, Seth and Lynch, Nancy},
+ title = {Brewer's Conjecture and the Feasibility of Consistent, Available, Partition-tolerant Web Services},
+ journal = {SIGACT News},
+ volume = {33},
+ number = {2},
+ month = jun,
+ year = {2002},
+ pages = {51--59},
+ url = {http://doi.acm.org/10.1145/564585.564601},
+ publisher = {ACM},
+} 
 ```
 
 ## Consistency/Latency Tradeoff
@@ -34,7 +65,7 @@
 
 - [[TPKBAA@SOSP'13]](http://dl.acm.org/citation.cfm?id=2522731)
 ```
-@inproceedings{Terry13,
+@inproceedings{terry:sosp13,
  author = {Terry, Douglas B. and Prabhakaran, Vijayan and Kotla, Ramakrishna and Balakrishnan, Mahesh and Aguilera, Marcos K. and Abu-Libdeh, Hussam},
  title = {Consistency-based Service Level Agreements for Cloud Storage},
  booktitle = {Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles},

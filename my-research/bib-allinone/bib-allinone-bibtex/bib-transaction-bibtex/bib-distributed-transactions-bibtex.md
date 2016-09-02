@@ -1,20 +1,25 @@
 # Bibs on Distributed Transactions (BibTeX)
 
 ## Transactional Consistency Models
-- [[BFHGS@SIGMOD'14]](http://dl.acm.org/citation.cfm?id=2588562)
-```
-@inproceedings{Bailis14,
- author = {Bailis, Peter and Fekete, Alan and Hellerstein, Joseph M. and Ghodsi, Ali and Stoica, Ion},
- title = {Scalable Atomic Visibility with RAMP Transactions},
- booktitle = {Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data},
- series = {SIGMOD '14},
- year = {2014},
- pages = {27--38},
- publisher = {ACM},
-} 
-```
 
 ## Concurrency Control Protocols
+
+- [[BG@CSUR'81]](http://dl.acm.org/citation.cfm?id=356846)
+```
+@article{bernstein:csur81,
+ author = {Bernstein, Philip A. and Goodman, Nathan},
+ title = {Concurrency Control in Distributed Database Systems},
+ journal = {ACM Comput. Surv.},
+ volume = {13},
+ number = {2},
+ month = jun,
+ year = {1981},
+ pages = {185--221},
+ url = {http://doi.acm.org/10.1145/356842.356846},
+ publisher = {ACM},
+}
+```
+
 - [[BFFGHS@PVLDB’14]](http://dl.acm.org/citation.cfm?id=2735509)
 ```
 @article{Bailis14,

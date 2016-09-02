@@ -267,3 +267,5 @@ Thus, optimize the write path is crucial to avoiding atomicity violations.
 
 - Functional data structures used in distributes storage systems
   - refs: "Immutability Changes Everything" (CACM16)
+- ***research idea:*** Replicated set:
+  - inspired by hybrid system: add/remote are strong; read/scan are weak.

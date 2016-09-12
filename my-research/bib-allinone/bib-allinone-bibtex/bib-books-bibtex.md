@@ -1,5 +1,16 @@
 # Bibs on Books (BibTeX)
 
+- [[Tanenbaum@Prentice'95]]()
+```
+@book{tanenbaum:prentice95,
+  author = {Tanenbaum, Andrew S.},
+  title = {Distributed Operating Systems},
+  year = {1995},
+  isbn = {0-13-219908-4},
+  publisher = {Prentice-Hall, Inc.},
+}
+```
+
 - [[Lynch@Morgan Kaufmann Publishers'96]](http://dl.acm.org/citation.cfm?id=525656)
 ```
 @book{lynch:morgan96,

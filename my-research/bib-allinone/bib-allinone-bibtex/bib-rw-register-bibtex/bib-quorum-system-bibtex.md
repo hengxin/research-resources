@@ -1,19 +1,66 @@
 # Bibs on Quorum Systems (BibTeX)
 
+## Overview
+
+- [[Vukolic@EATCS'10]](http://dblp.uni-trier.de/rec/bibtex/journals/eatcs/Vukolic10)
+```
+@article{vukolic:beatcs10,
+  author    = {Marko Vukolic},
+  title     = {The Origin of Quorum Systems},
+  journal   = {Bulletin of the {EATCS}},
+  volume    = {101},
+  pages     = {125--147},
+  year      = {2010},
+  url       = {http://www.eatcs.org/beatcs/index.php/beatcs/article/view/183},
+}
+```
+
 ## Traditional Quorum Systems
+
+- [[Gifford@SOSP'79]](http://dl.acm.org/citation.cfm?id=806583)
+```
+@inproceedings{gifford:sosp79,
+  author = {Gifford, David K.},
+  title = {Weighted Voting for Replicated Data},
+  booktitle = {Proceedings of the Seventh ACM Symposium on Operating Systems Principles},
+  series = {SOSP '79},
+  year = {1979},
+  pages = {150--162},
+  url = {http://doi.acm.org/10.1145/800215.806583},
+  publisher = {ACM},
+}
+```
+
 - [[Thomas@TODS'79]](http://dl.acm.org/citation.cfm?id=320076)
 ```
-@article{Thomas:1979:MCA:320071.320076,
- author = {Thomas, Robert H.},
- title = {A Majority Consensus Approach to Concurrency Control for Multiple Copy Databases},
- journal = {ACM Trans. Database Syst.},
- volume = {4},
- number = {2},
- month = jun,
- year = {1979},
- pages = {180--209},
- publisher = {ACM},
+@article{thomas:tods79,
+  author = {Thomas, Robert H.},
+  title = {A Majority Consensus Approach to Concurrency Control for Multiple Copy Databases},
+  journal = {ACM Trans. Database Syst.},
+  volume = {4},
+  number = {2},
+  month = jun,
+  year = {1979},
+  pages = {180--209},
+  url = {http://dl.acm.org/citation.cfm?id=320076},
+  publisher = {ACM},
 } 
+```
+
+- [[NW@SIAM J. Comput.'98]](http://dl.acm.org/citation.cfm?id=279096)
+```
+@article{naor:sicomp98,
+  author = {Naor, Moni and Wool, Avishai},
+  title = {The Load, Capacity, and Availability of Quorum Systems},
+  journal = {SIAM J. Comput.},
+  volume = {27},
+  number = {2},
+  month = apr,
+  year = {1998},
+  pages = {423--447},
+  url = {http://epubs.siam.org/doi/abs/10.1137/S0097539795281232},
+  publisher = {Society for Industrial and Applied Mathematics},
+}
 ```
 
 ## Partial Quorum Systems
@@ -21,7 +68,7 @@
 ## Probabilistic Quorum Systems
 - [[MRWW@IandC'01]; PQS](http://dl.acm.org/citation.cfm?id=506064&preflayout=tabs)
 ```
-@article{Malkhi01,
+@article{malkhi:iandc01,
   author = {Malkhi, Dahlia and Reiter, Michael K and Wool, Avishai and Wright, Rebecca N},
   title = {Probabilistic Quorum Systems},
   journal = {Inf. Comput.},
@@ -30,7 +77,7 @@
   month = nov,
   year = {2001},
   pages = {184--206},
-  numpages = {23},
+  url = {http://dl.acm.org/citation.cfm?id=259458},
   publisher = {Academic Press, Inc.},
 }
 ```

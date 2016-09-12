@@ -269,3 +269,20 @@ Thus, optimize the write path is crucial to avoiding atomicity violations.
   - refs: "Immutability Changes Everything" (CACM16)
 - ***research idea:*** Replicated set:
   - inspired by hybrid system: add/remote are strong; read/scan are weak.
+
+## September 2016
+
+### 2016-09-02 (Fri.)
+
+- Implement a bib manager tool using Cassandra
+  - supporting tags: filtering by tags
+
+### 2016-09-10 (Sat.)
+
+- ***research idea:*** runtime verification of consistency models using 
+  (timed/probabilistic) temporal logic/ knowledge logic
+  - refs: "Monitoring Data Usage in Distributed Systems" (TSE13)
+
+### 2016-09-11 (Sun.)
+
+- ***research idea:*** Paxos Commit protocol for transactions over underlying atomic registers???

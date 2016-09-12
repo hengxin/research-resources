@@ -54,43 +54,75 @@
 }
 ```
 
-- [[Google@OSDI'12]](http://dl.acm.org/citation.cfm?id=2491245)  % Google's Spanner
+- [[Google@CIDR'11]](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.185.4719)
 ```
-@inproceedings{google:osdi12,
- author = {Corbett, James C. and Dean, Jeffrey and Epstein, Michael and Fikes, Andrew and Frost, Christopher and Furman, J. J. and Ghemawat, Sanjay and Gubarev, Andrey and Heiser, Christopher and Hochschild, Peter and Hsieh, Wilson and Kanthak, Sebastian and Kogan, Eugene and Li, Hongyi and Lloyd, Alexander and Melnik, Sergey and Mwaura, David and Nagle, David and Quinlan, Sean and Rao, Rajesh and Rolig, Lindsay and Saito, Yasushi and Szymaniak, Michal and Taylor, Christopher and Wang, Ruth and Woodford, Dale},
- title = {Spanner: Google's Globally-distributed Database},
- booktitle = {Proceedings of the 10th USENIX Conference on Operating Systems Design and Implementation},
- series = {OSDI'12},
- year = {2012},
- pages = {251--264},
- publisher = {USENIX Association},
+@inproceedings{google:cidr11,
+  author    = {Jason Baker and Chris Bond and James C. Corbett and J. J. Furman and Andrey Khorlin and James Larson and
+               Jean{-}Michel Leon and Yawei Li and Alexander Lloyd and Vadim Yushprakh},
+  title     = {Megastore: Providing Scalable, Highly Available Storage for Interactive
+               Services},
+  booktitle = {{CIDR} 2011, Fifth Biennial Conference on Innovative Data Systems
+               Research, Asilomar, CA, USA, January 9-12, 2011, Online Proceedings},
+  pages     = {223--234},
+  year      = {2011},
+  url       = {http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf},
 }
 ```
 
-- [lloyd@SOSP'11](http://dl.acm.org/citation.cfm?id=2043593)
+- [[Google@OSDI'12]](http://dl.acm.org/citation.cfm?id=2491245)  % Google's Spanner
 ```
-@inproceedings{lloyd:sosp11,
- author = {Lloyd, Wyatt and Freedman, Michael J. and Kaminsky, Michael and Andersen, David G.},
- title = {Don'T Settle for Eventual: Scalable Causal Consistency for Wide-area Storage with COPS},
- booktitle = {Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles},
- series = {SOSP '11},
- year = {2011},
- pages = {401--416},
- publisher = {ACM},
+@inproceedings{google:osdi12,
+  author = {Corbett, James C. and Dean, Jeffrey and Epstein, Michael and Fikes, Andrew and Frost, Christopher and Furman, J. J. and Ghemawat, Sanjay and Gubarev, Andrey and Heiser, Christopher and Hochschild, Peter and Hsieh, Wilson and Kanthak, Sebastian and Kogan, Eugene and Li, Hongyi and Lloyd, Alexander and Melnik, Sergey and Mwaura, David and Nagle, David and Quinlan, Sean and Rao, Rajesh and Rolig, Lindsay and Saito, Yasushi and Szymaniak, Michal and Taylor, Christopher and Wang, Ruth and Woodford, Dale},
+  title = {Spanner: Google's Globally-distributed Database},
+  booktitle = {Proceedings of the 10th USENIX Conference on Operating Systems Design and Implementation},
+  series = {OSDI'12},
+  year = {2012},
+  pages = {251--264},
+  url = {http://dl.acm.org/citation.cfm?id=2491245},
+  publisher = {USENIX Association},
 }
 ```
-- [strauss@atc11](https://www.usenix.org/legacy/events/atc11/tech/final_files/Strauss.pdf)
+
+- [LFKA@SOSP'11](http://dl.acm.org/citation.cfm?id=2043593)
+```
+@inproceedings{lloyd:sosp11,
+  author = {Lloyd, Wyatt and Freedman, Michael J. and Kaminsky, Michael and Andersen, David G.},
+  title = {Don'T Settle for Eventual: Scalable Causal Consistency for Wide-area Storage with COPS},
+  booktitle = {Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles},
+  series = {SOSP '11},
+  year = {2011},
+  pages = {401--416},
+  url = {http://dl.acm.org/citation.cfm?id=2043593},
+  publisher = {ACM},
+}
+```
+
+- [[LFKA@NSDI'13]](http://dl.acm.org/citation.cfm?id=2482657)
+```
+@inproceedings{lloyd:nsdi13,
+  author = {Lloyd, Wyatt and Freedman, Michael J. and Kaminsky, Michael and Andersen, David G.},
+  title = {Stronger Semantics for Low-latency Geo-replicated Storage},
+  booktitle = {Proceedings of the 10th USENIX Conference on Networked Systems Design and Implementation},
+  series = {nsdi'13},
+  year = {2013},
+  pages = {313--328},
+  url = {http://dl.acm.org/citation.cfm?id=2482626.2482657},
+  publisher = {USENIX Association},
+}
+```
+
+- [SPLFMK@atc11](https://www.usenix.org/legacy/events/atc11/tech/final_files/Strauss.pdf)
 ```
 @inproceedings{strauss:atc11,
- author = {Strauss, Jacob and Paluska, Justin Mazzola and Lesniewski-Laas, Chris and Ford, Bryan and Morris, Robert and Kaashoek, Frans},
- title = {Eyo: Device-transparent Personal Storage},
- booktitle = {Proceedings of the 2011 USENIX Conference on USENIX Annual Technical Conference},
- series = {USENIXATC'11},
- year = {2011},
- location = {Portland, OR},
- numpages = {14},
- url = {http://dl.acm.org/citation.cfm?id=2002181.2002216},
- publisher = {USENIX Association},
+  author = {Strauss, Jacob and Paluska, Justin Mazzola and Lesniewski-Laas, Chris and Ford, Bryan and Morris, Robert and Kaashoek, Frans},
+  title = {Eyo: Device-transparent Personal Storage},
+  booktitle = {Proceedings of the 2011 USENIX Conference on USENIX Annual Technical Conference},
+  series = {USENIXATC'11},
+  year = {2011},
+  location = {Portland, OR},
+  numpages = {14},
+  url = {http://dl.acm.org/citation.cfm?id=2002181.2002216},
+  publisher = {USENIX Association},
 } 
 ```
 

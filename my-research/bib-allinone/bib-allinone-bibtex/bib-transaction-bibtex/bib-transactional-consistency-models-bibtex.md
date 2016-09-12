@@ -1,5 +1,33 @@
 # Bibs on Transactional Consistency Models (BibTeX)
 
+## Overview
+
+- [[DFK@EATCS'14]](http://bulletin.eatcs.org/index.php/beatcs/article/view/288)
+```
+@article{dziuma:eatcs14,
+  author    = {Dmytro Dziuma and Panagiota Fatourou and Eleni Kanellou},
+  title     = {Consistency for Transactional Memory Computing},
+  journal   = {Bulletin of the {EATCS}},
+  volume    = {113},
+  year      = {2014},
+  url       = {http://eatcs.org/beatcs/index.php/beatcs/article/view/288},
+}
+```
+
+- [[CBG@CONCUR'15]](http://drops.dagstuhl.de/opus/volltexte/2015/5375/)
+```
+@InProceedings{cerone:concur15,
+  author =	{Andrea Cerone and Giovanni Bernardi and Alexey Gotsman},
+  title =	{{A Framework for Transactional Consistency Models with Atomic Visibility}},
+  booktitle =	{26th International Conference on Concurrency Theory (CONCUR 2015)},
+  pages =	{58--71},
+  year =	{2015},
+  volume =	{42},
+  publisher =	{Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik},
+  url =		{http://drops.dagstuhl.de/opus/volltexte/2015/5375},
+}
+```
+
 - [[Gray@PVLDB'81]](http://dl.acm.org/citation.cfm?id=1286846)
 ```
 @inproceedings{gray:pvldb81,
@@ -62,6 +90,20 @@
 }
 ```
 
+- [[BBGMOO@SIGMOD'95]](http://dl.acm.org/citation.cfm?id=223785)
+```
+@inproceedings{berenson:sigmod95,
+  author = {Berenson, Hal and Bernstein, Phil and Gray, Jim and Melton, Jim and O'Neil, Elizabeth and O'Neil, Patrick},
+  title = {A Critique of ANSI SQL Isolation Levels},
+  booktitle = {Proceedings of the 1995 ACM SIGMOD International Conference on Management of Data},
+  series = {SIGMOD '95},
+  year = {1995},
+  pages = {1--10},
+  url = {http://doi.acm.org/10.1145/223784.223785},
+  publisher = {ACM},
+}
+```
+
 - [[Adya@PhD-Thesis'99]](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-786.pdf)
 ```
 @phdthesis{adya:thesis99,
@@ -70,6 +112,35 @@
   year = {1999},
   note = {AAI0800775},
   publisher = {Massachusetts Institute of Technology},
+}
+```
+
+- [[Bernstein@SIGMOD'06]; RCSR](http://dl.acm.org/citation.cfm?id=1142540)
+```
+@inproceedings{bernstein:sigmod06,
+  author = {Bernstein, Philip A. and Fekete, Alan and Guo, Hongfei and Ramakrishnan, Raghu and Tamma, Pradeep},
+  title = {Relaxed-currency Serializability for Middle-tier Caching and Replication},
+  booktitle = {Proceedings of the 2006 ACM SIGMOD International Conference on Management of Data},
+  series = {SIGMOD '06},
+  year = {2006},
+  pages = {599--610},
+  url = {http://doi.acm.org/10.1145/1142473.1142540},
+  acmid = {1142540},
+  publisher = {ACM},
+}
+```
+
+- [[DS@VLDB'06]](http://dl.acm.org/citation.cfm?id=1164189)
+```
+@inproceedings{daudjee:vldb06,
+  author = {Daudjee, Khuzaima and Salem, Kenneth},
+  title = {Lazy Database Replication with Snapshot Isolation},
+  booktitle = {Proceedings of the 32Nd International Conference on Very Large Data Bases},
+  series = {VLDB '06},
+  year = {2006},
+  pages = {715--726},
+  url = {http://dl.acm.org/citation.cfm?id=1182635.1164189},
+  publisher = {VLDB Endowment},
 }
 ```
 
@@ -88,30 +159,16 @@
 
 - [[BFHGS@SIGMOD'14]; Atomic Visibility](http://dl.acm.org/citation.cfm?id=2588562)
 ```
-@inproceedings{Bailis14,
+@inproceedings{bailis:sigmod14,
   author = {Bailis, Peter and Fekete, Alan and Hellerstein, Joseph M. and Ghodsi, Ali and Stoica, Ion},
   title = {Scalable Atomic Visibility with RAMP Transactions},
   booktitle = {Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data},
   series = {SIGMOD '14},
   year = {2014},
   pages = {27--38},
+  url = {http://dl.acm.org/citation.cfm?id=2588562},
   publisher = {ACM},
 } 
-```
-
-- [[Bernstein@SIGMOD'06]; RCSR](http://dl.acm.org/citation.cfm?id=1142540)
-```
-@inproceedings{bernstein:sigmod06,
-  author = {Bernstein, Philip A. and Fekete, Alan and Guo, Hongfei and Ramakrishnan, Raghu and Tamma, Pradeep},
-  title = {Relaxed-currency Serializability for Middle-tier Caching and Replication},
-  booktitle = {Proceedings of the 2006 ACM SIGMOD International Conference on Management of Data},
-  series = {SIGMOD '06},
-  year = {2006},
-  pages = {599--610},
-  url = {http://doi.acm.org/10.1145/1142473.1142540},
-  acmid = {1142540},
-  publisher = {ACM},
-}
 ```
 
 - [[Terry@TR'13]](https://www.microsoft.com/en-us/research/publication/transactions-with-consistency-choices-on-geo-replicated-cloud-storage/)

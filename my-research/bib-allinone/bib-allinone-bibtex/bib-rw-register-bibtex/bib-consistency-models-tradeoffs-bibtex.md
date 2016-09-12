@@ -45,6 +45,19 @@
 } 
 ```
 
+- [Google@OSDI'10](https://www.usenix.org/conference/osdi10/availability-globally-distributed-storage-systems)
+```
+% google:osdi10; availability
+@inproceedings {google:osdi10,
+author = {Daniel Ford and Fran{\c c}ois Labelle and Florentina I. Popovici and Murray Stokely and Van-Anh Truong and Luiz Barroso and Carrie Grimes and Sean Quinlan},
+title = {Availability in Globally Distributed Storage Systems},
+booktitle = {The 9th USENIX Symposium on Operating Systems Design and Implementation},
+year = {2010},
+url = {https://www.usenix.org/conference/osdi10/availability-globally-distributed-storage-systems},
+publisher = {USENIX},
+}
+```
+
 ## Consistency/Latency Tradeoff
 - [[Abadi@IEEE Computer'12]](http://dl.acm.org/citation.cfm?id=2360959)
 ```

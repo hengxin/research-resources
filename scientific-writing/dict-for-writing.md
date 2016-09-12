@@ -1,23 +1,53 @@
 # Dict for Writing
 
-## Words, Phrases, and Sentences
-A wonderful site: [Common Errors in English Usage](http://public.wsu.edu/~brians/errors/errors.html#i).
+## Resources
 
-### Words and Phrases
+## Q/A Sites
+- [ell: English Language Learners Stack Exchange](http://ell.stackexchange.com/)
 
-#### Online Dictionary
-- [Merriam-Webster](http://www.merriam-webster.com/)
+### Dictionaries
+- [Merriam-Webster (Dictionary); since 1828](http://www.merriam-webster.com/)
 - [Oxford Dictionaries](http://www.oxforddictionaries.com/)
-- [Oxford Collocation Dictionary](http://oxforddictionary.so8848.com/)
+- [Oxford Learner's Dictionaries](http://www.oxfordlearnersdictionaries.com/)
+- [Dictionary.com](http://www.dictionary.com/)
 - [TheFreeDictionary](http://www.thefreedictionary.com/)
 - [Wordnet](http://wordnet-online.freedicts.com/)
 - [YouDao](http://dict.youdao.com/)
 
-#### Online Corpora
+### Collocations and Phrases
+- [ozdic - the English Collocations Dictionary online; 英语在线搭配词典](http://www.ozdic.com/collocation-dictionary/)
+- [Oxford Collocation Dictionary; 牛津搭配词典](http://oxforddictionary.so8848.com/)
+
+### Synonyms (Thesaurus) and Antonyms
+- [Merriam-Webster (Thesaurus); 同义词](http://www.merriam-webster.com/thesaurus)
+- [Thesaurus.com](http://www.thesaurus.com/)
+
+### Origins, Etyma (root), and Affix
+
+### Grammars
+- [Grammar Girl](http://www.quickanddirtytips.com/grammar-girl)
+- [Azar Grammar Exchange: A Grammar Q & A Forum](http://www.pearsonlongman.com/ae/azar/grammar_ex/)
+
+### Online Corpora
 - [corpus.byu.edu](http://corpus.byu.edu/)
   The corpora at this site were created by Mark Davies, Professor of Linguistics at Brigham Young University. These are probably the most widely-used corpora currently available.
 - [BYU-BNC: BRITISH NATIONAL CORPUS](http://corpus.byu.edu/bnc/)
   This website allows you to quickly and easily search the 100 million word British National Corpus (1970s-1993).
+
+### Online Ngram
+- [Google Books	Ngram Viewer](https://books.google.com/ngrams)
+
+### Online Translators
+- [Google Translate](https://translate.google.com.hk/)
+- [FreeTranslation](https://www.freetranslation.com/)
+
+### Online Editors with Checkers
+- [Grammarly](https://app.grammarly.com/)
+
+## Words, Phrases, and Sentences
+A wonderful site: [Common Errors in English Usage](http://public.wsu.edu/~brians/errors/errors.html#i).
+
+### Words and Phrases
 
 #### Words
 

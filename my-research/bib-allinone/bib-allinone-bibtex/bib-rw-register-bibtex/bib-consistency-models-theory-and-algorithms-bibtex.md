@@ -86,6 +86,20 @@
 }
 ```
 
+- [DSB@ISCA'86](http://dl.acm.org/citation.cfm?id=17406)
+```
+@inproceedings{dubois:isca86,
+ author = {Dubois, M. and Scheurich, C. and Briggs, F.},
+ title = {Memory Access Buffering in Multiprocessors},
+ booktitle = {Proceedings of the 13th Annual International Symposium on Computer Architecture},
+ series = {ISCA '86},
+ year = {1986},
+ pages = {434--442},
+ url = {http://dl.acm.org/citation.cfm?id=17407.17406},
+ publisher = {IEEE Computer Society Press},
+}
+```
+
 ## Atomicity
 
 - [[Lamport@DC'86:1]](http://link.springer.com/article/10.1007%2FBF01786227)
@@ -145,13 +159,13 @@
 
 - [[Attiya@EATCS'10]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.154.6450)
 ```
-@article{Attiya10,
-title = {Robust Simulation of Shared Memory: 20 Years After.},
-author = {Attiya, Hagit},
-journal = {Bulletin of the {EATCS}},
-volume = 100,
-pages = {99-113},
-year = 2010,
+@article{attiya:beatcs10,
+  title = {Robust Simulation of Shared Memory: 20 Years After.},
+  author = {Attiya, Hagit},
+  journal = {Bulletin of the {EATCS}},
+  volume = 100,
+  pages = {99-113},
+  year = 2010,
 }
 ```
 
@@ -345,7 +359,7 @@ year = 2010,
 } 
 ```
 
-- [[Fekete@TCS'99]; Eventually Serializable](http://dl.acm.org/citation.cfm?id=310279)
+- [[FGLLS@TCS'99]; Eventually Serializable](http://dl.acm.org/citation.cfm?id=310279)
 ```
 @article{fekete:tcs99,
  author = {Fekete, Alan and Gupta, David and Luchangco, Victor and Lynch, Nancy and Shvartsman, Alex},
